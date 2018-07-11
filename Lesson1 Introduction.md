@@ -5,17 +5,17 @@
 
 - Tom Mitchell provides a more modern definition: "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E."
 
-Example: playing checkers.
+>Example: playing checkers.
 
-E = the experience of playing many games of checkers
+>E = the experience of playing many games of checkers
 
-T = the task of playing checkers.
+>T = the task of playing checkers.
 
-P = the probability that the program will win the next game.
+>P = the probability that the program will win the next game.
 
-In general, any machine learning problem can be assigned to one of two broad classifications:
+- In general, any machine learning problem can be assigned to one of two broad classifications:
 
-Supervised learning and Unsupervised learning.
+>Supervised learning and Unsupervised learning.
 
 **Cocktail party problem**
 
@@ -25,5 +25,5 @@ $[W,s,v]=svd((repmat(sum(x.*x,1),size(x,1),1).*x)*x');$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTg3NDQ1MSwxMzU1MDIxODg3XX0=
+eyJoaXN0b3J5IjpbMTMwNDk1ODA5NCwxMzU1MDIxODg3XX0=
 -->
