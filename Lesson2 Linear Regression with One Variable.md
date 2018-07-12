@@ -10,7 +10,7 @@ $J(\theta_0,\theta_1)=\frac{1}{2m}\sum \limits_{i=1}^{m}(h_\theta(x^{(i)})-y^{(i
 
 **Goal**
 $\min \limits_{\theta_0,\theta_1} J(\theta_0,\theta_1)$
-
+usi
 $J(\theta_0,\theta_1)$: Bowl shaped surface
 Contour figure/plots(等高图)
 
@@ -49,5 +49,5 @@ If the goal function is a convex function, it doesn't have any local optima, exc
 
 **"Batch" Gradient Descent**: Each step of gradient descent uses all the training examples.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjc1NDUwMV19
+eyJoaXN0b3J5IjpbMTY3NDA3NjYxMCwtODM2NzU0NTAxXX0=
 -->
