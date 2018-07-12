@@ -36,6 +36,8 @@ $\theta_0:=temp_0$
 $temp_1:=\theta_1 -\alpha\frac{\partial}{\partial\theta_1}J(\theta_0,\theta_1)$
 $\theta_1:=temp_1$
 
+
+
 >$\frac{\partial}{\partial\theta_j}J(\theta_0,\theta_1)=\frac{\partial}{\partial\theta_j}\{\frac{1}{2m}\sum \limits_{i=1}^{m}(h_\theta(x^{(i)})-y^{(i)})^2\}=\frac{\partial}{\partial\theta_j}\{\frac{1}{2m}\sum \limits_{i=1}^{m}(\theta_0+\theta_1x^{(i)}-y^{(i)})^2\}$
 $j=0:\frac{\partial}{\partial\theta_0}J(\theta_0,\theta_1)=\frac{1}{m}\sum \limits_{i=1}^{m}(h_\theta(x^{(i)})-y^{(i)})$
 $j=1:\frac{\partial}{\partial\theta_1}J(\theta_0,\theta_1)=\frac{1}{m}\sum \limits_{i=1}^{m}(h_\theta(x^{(i)})-y^{(i)})x^{(i)}$
@@ -49,5 +51,5 @@ If the goal function is a convex function, it doesn't have any local optima, exc
 
 **"Batch" Gradient Descent**: Each step of gradient descent uses all the training examples.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyNzMwMzYzXX0=
+eyJoaXN0b3J5IjpbLTIxMzExOTAzMTNdfQ==
 -->
