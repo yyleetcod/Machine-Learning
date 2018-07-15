@@ -1,4 +1,5 @@
 # Hypothesis Representation
+"Sigmoid Function," also called the "Logistic Function": $g(z)=\frac{1}{1+e^{-z}}$
 **Logistic regression model:**
 
 $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$
@@ -85,7 +86,7 @@ e.g. $J(\theta)=(\theta_1-5)^2+(\theta_2-5)^2$
 Train a logistic regression classifier $h_\theta^{(i)}$ for each class $i$ to predict the probability that $y = i$.
 On a new input $x$, to make a prediction, pick the class $i$ that maximizes $\max \limits_ih_\theta^{(i)}(x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTEzODA5NiwxODU3MTYyMDcsLTIwNj
-Q5NzMwNTAsLTEzNjcwMjY1NzYsLTEyMjEzMjc1MjEsOTQwMjI2
-Nl19
+eyJoaXN0b3J5IjpbLTE4MTI4MTUzOTMsLTU3OTEzODA5NiwxOD
+U3MTYyMDcsLTIwNjQ5NzMwNTAsLTEzNjcwMjY1NzYsLTEyMjEz
+Mjc1MjEsOTQwMjI2Nl19
 -->
