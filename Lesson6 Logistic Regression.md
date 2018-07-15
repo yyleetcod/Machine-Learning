@@ -47,9 +47,10 @@ Gradient descend is the same as the case in linear regression, but $h_\theta=\fr
 # Advanced Optimization
 > function[jval, gradient] = costFunction(theta)
 > jval = (theta(1)-5)^2
+> +(theta(1)-5)^2
 
 # Multiclass Classification
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjcwMjY1NzYsLTEyMjEzMjc1MjEsOT
-QwMjI2Nl19
+eyJoaXN0b3J5IjpbLTE0NTQ2MzAxMTgsLTEzNjcwMjY1NzYsLT
+EyMjEzMjc1MjEsOTQwMjI2Nl19
 -->
