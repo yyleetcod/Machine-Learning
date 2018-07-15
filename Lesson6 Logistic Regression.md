@@ -28,7 +28,9 @@ $cost(h_\theta(x),y)=-ylog(h_\theta(x))-(1-y)log(1-h_\theta(x))$
 $$
 J(\theta)=\frac{1}{m}\sum\limits_{i=1}^mcost(h_\theta(x^{(i)}),y^{(i)})=-\frac{1}{m}\sum\limits_{i=1}^mylog(h_\theta(x))+(1-y)log(1-h_\theta(x))$$(Max likehood estimation)
 
-Goal
+**Goal**
+$\min \limits_\theta J(\theta)$
+To make a prediction given new $x$:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQyOTg0ODIsOTQwMjI2Nl19
+eyJoaXN0b3J5IjpbNjI0MDQwMDAsOTQwMjI2Nl19
 -->
