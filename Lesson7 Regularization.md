@@ -1,4 +1,6 @@
 # The Problem of Overfitting
+Underfitting, or high bias, is when the form of our hypothesis function h maps poorly to the trend of the data. It is usually caused by a function that is too simple or uses too few features.
+ At the other extreme, overfitting, or high variance, is caused by a hypothesis function that fits the available data but does not generalize well to predict new data. It is usually caused by a complicated function that creates a lot of unnecessary curves and angles unrelated to the data.
 **"Underfit"**: high bias;
 **"Overfit"**: high variance. It happens when we have too many features with too few training examples.
 **Way to solve overfitting:**
@@ -67,5 +69,5 @@ J(\theta)=-[\frac{1}{m}\sum\limits_{i=1}^mylog(h_\theta(x))+(1-y)log(1-h_\theta(
 	(simultaneously update for every $j=1,...,n$)
 } 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjc4NTUyMzJdfQ==
+eyJoaXN0b3J5IjpbNjA1NTcwMzAsLTE0Mjc4NTUyMzJdfQ==
 -->
