@@ -40,6 +40,8 @@ To make a prediction given new $x$: Output $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$
 >repeat until convergence{
 	$\theta_j:=\theta_j-\alpha\frac{1}{m}\sum \limits_{i=1}^{m}(h_\theta(x^{(i)})-y^{(i)})x^{(i)}_j$
 } (simultaneously update for every $j=0,...,n$)
+
+Gradient descend is the same as the case in linear regression, but 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDIzMjI2NSw5NDAyMjY2XX0=
+eyJoaXN0b3J5IjpbLTEzMzQ4NTA0ODMsOTQwMjI2Nl19
 -->
