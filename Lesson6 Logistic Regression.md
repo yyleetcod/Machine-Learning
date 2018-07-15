@@ -77,7 +77,7 @@ e.g. $J(\theta)=(\theta_1-5)^2+(\theta_2-5)^2$
 > gradient(1)= 2*(theta(1)-5);
 > gradient(2)= 2*(theta(2)-5);
 
->options = optimset('GradObj', 'on', 'MaxIter', '100');
+>options = optimset('GradObj', 'on', 'MaxIter', 100);
 
 >initiaTheta = zeros(2,1);
 
@@ -89,8 +89,8 @@ e.g. $J(\theta)=(\theta_1-5)^2+(\theta_2-5)^2$
 Train a logistic regression classifier $h_\theta^{(i)}$ for each class $i$ to predict the probability that $y = i$.
 On a new input $x$, to make a prediction, pick the class $i$ that maximizes $\max \limits_ih_\theta^{(i)}(x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0ODcxMjU0LC02ODU3OTk4OTMsLTEwMj
-U4MTk3OTYsLTE4MTI4MTUzOTMsLTU3OTEzODA5NiwxODU3MTYy
-MDcsLTIwNjQ5NzMwNTAsLTEzNjcwMjY1NzYsLTEyMjEzMjc1Mj
-EsOTQwMjI2Nl19
+eyJoaXN0b3J5IjpbLTE1MTM5MzU3MTAsODE0ODcxMjU0LC02OD
+U3OTk4OTMsLTEwMjU4MTk3OTYsLTE4MTI4MTUzOTMsLTU3OTEz
+ODA5NiwxODU3MTYyMDcsLTIwNjQ5NzMwNTAsLTEzNjcwMjY1Nz
+YsLTEyMjEzMjc1MjEsOTQwMjI2Nl19
 -->
