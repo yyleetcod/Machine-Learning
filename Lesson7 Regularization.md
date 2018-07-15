@@ -35,7 +35,7 @@ $(1-\alpha\frac{\lambda}{m})$ is less than 1. It means we will shrink the parame
 
 **Normal equation:**
 $$
-\theta=(X^TX+
+\theta=(X^TX+\lambda
  \left[ 
  \begin{matrix} 
 0 & 0 & 0 & 0 & 0\\ 
@@ -69,5 +69,6 @@ J(\theta)=-[\frac{1}{m}\sum\limits_{i=1}^mylog(h_\theta(x))+(1-y)log(1-h_\theta(
 	(simultaneously update for every $j=1,...,n$)
 } 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1NTcwMzAsLTE0Mjc4NTUyMzJdfQ==
+eyJoaXN0b3J5IjpbMTEyODY3MjE3Myw2MDU1NzAzMCwtMTQyNz
+g1NTIzMl19
 -->
