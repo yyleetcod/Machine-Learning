@@ -46,22 +46,22 @@ Gradient descend is the same as the case in linear regression, but $h_\theta=\fr
 
 # Advanced Optimization
 
-Optimization algorithms:
+**Optimization algorithms:**
 
 - Gradient descent;
 - Conjugate gradient;
 - BFGS;
-- L-BFGS;
+- L-BFGS
 
-Advantages:
+**Advantages:**
 
 - No need to manually pick $\alpha$
-- Often faster than gradient descent.
+- Often faster than gradient descent
 
-Disadvantages:
+**Disadvantages:**
 
--m
-
+- more complex
+How to use advanced optimization?
 e.g. $J(\theta)=(\theta_1-5)^2+(\theta_2-5)^2$
 > function[jval, gradient] = costFunction(theta)
 > jval = (theta(1)-5)^2+...
@@ -79,6 +79,6 @@ e.g. $J(\theta)=(\theta_1-5)^2+(\theta_2-5)^2$
 
 # Multiclass Classification
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzgwMDAzLC0xMzY3MDI2NTc2LC0xMj
-IxMzI3NTIxLDk0MDIyNjZdfQ==
+eyJoaXN0b3J5IjpbLTEzODY1MDQyMzIsLTEzNjcwMjY1NzYsLT
+EyMjEzMjc1MjEsOTQwMjI2Nl19
 -->
