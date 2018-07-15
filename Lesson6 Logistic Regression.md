@@ -45,9 +45,10 @@ To make a prediction given new $x$: Output $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$
 Gradient descend is the same as the case in linear regression, but $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$ here while $h_\theta=\theta^Tx$ in linear regression.
 
 # Advanced Optimization
+> function[jval, gradient] = c
 
 # Multiclass Classification
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MjI2NjUzLC0xMjIxMzI3NTIxLDk0MD
+eyJoaXN0b3J5IjpbNzI0NjgzMjQ4LC0xMjIxMzI3NTIxLDk0MD
 IyNjZdfQ==
 -->
