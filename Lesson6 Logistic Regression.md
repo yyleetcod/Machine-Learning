@@ -47,7 +47,7 @@ To make a prediction given new $x$: Output $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$
 	$\theta_j:=\theta_j-\alpha\frac{1}{m}\sum \limits_{i=1}^{m}(h_\theta(x^{(i)})-y^{(i)})x^{(i)}_j$
 } (simultaneously update for every $j=0,...,n$)
 
-Gradient descend is the same as the case in linear regression, but $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$ here while $h_\theta=\theta^Tx$ in linear regression.
+The gradient descend algorithm is the same as the one in linear regression, but $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$ here while $h_\theta=\theta^Tx$ in linear regression.
 
 # Advanced Optimization
 
@@ -88,8 +88,8 @@ e.g. $J(\theta)=(\theta_1-5)^2+(\theta_2-5)^2$
 Train a logistic regression classifier $h_\theta^{(i)}$ for each class $i$ to predict the probability that $y = i$.
 On a new input $x$, to make a prediction, pick the class $i$ that maximizes $\max \limits_ih_\theta^{(i)}(x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTc5OTg5MywtMTAyNTgxOTc5NiwtMT
-gxMjgxNTM5MywtNTc5MTM4MDk2LDE4NTcxNjIwNywtMjA2NDk3
-MzA1MCwtMTM2NzAyNjU3NiwtMTIyMTMyNzUyMSw5NDAyMjY2XX
-0=
+eyJoaXN0b3J5IjpbMTE3NzAwMTE4NywtNjg1Nzk5ODkzLC0xMD
+I1ODE5Nzk2LC0xODEyODE1MzkzLC01NzkxMzgwOTYsMTg1NzE2
+MjA3LC0yMDY0OTczMDUwLC0xMzY3MDI2NTc2LC0xMjIxMzI3NT
+IxLDk0MDIyNjZdfQ==
 -->
