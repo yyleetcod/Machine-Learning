@@ -46,8 +46,8 @@ Gradient descend is the same as the case in linear regression, but $h_\theta=\fr
 
 # Advanced Optimization
 
-# 
+# Multiclass Classification
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDc1Mjg0OCwtMTIyMTMyNzUyMSw5ND
-AyMjY2XX0=
+eyJoaXN0b3J5IjpbNDY1MjI2NjUzLC0xMjIxMzI3NTIxLDk0MD
+IyNjZdfQ==
 -->
