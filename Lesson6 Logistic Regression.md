@@ -52,10 +52,14 @@ Gradient descend is the same as the case in linear regression, but $h_\theta=\fr
 > gradient(1)= 2*(theta(1)-5);
 > gradient(2)= 2*(theta(2)-5);
 
->options = optimset('GradObj', 'on');
+>options = optimset('GradObj', 'on', 'MaxIter', '100');
+
+>initiaTheta = zeros(2,1);
+
+>[optTheta, functionval, exitFlag]=fminunc
 
 # Multiclass Classification
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzEzMDkwOSwtMTM2NzAyNjU3NiwtMT
-IyMTMyNzUyMSw5NDAyMjY2XX0=
+eyJoaXN0b3J5IjpbNTg5MTA2NDA0LC0xMzY3MDI2NTc2LC0xMj
+IxMzI3NTIxLDk0MDIyNjZdfQ==
 -->
