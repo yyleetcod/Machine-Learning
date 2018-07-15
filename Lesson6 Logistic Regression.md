@@ -87,9 +87,10 @@ e.g. $J(\theta)=(\theta_1-5)^2+(\theta_2-5)^2$
 # Multiclass Classification
 **One-vs-all**
 Train a logistic regression classifier $h_\theta^{(i)}$ for each class $i$ to predict the probability that $y = i$.
+ $h_\theta^{(i)}=P(y=i|x;\theta)$ 
 On a new input $x$, to make a prediction, pick the class $i$ that maximizes $\max \limits_ih_\theta^{(i)}(x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTM5MzU3MTAsODE0ODcxMjU0LC02OD
+eyJoaXN0b3J5IjpbLTE4MDA3OTk0NDEsODE0ODcxMjU0LC02OD
 U3OTk4OTMsLTEwMjU4MTk3OTYsLTE4MTI4MTUzOTMsLTU3OTEz
 ODA5NiwxODU3MTYyMDcsLTIwNjQ5NzMwNTAsLTEzNjcwMjY1Nz
 YsLTEyMjEzMjc1MjEsOTQwMjI2Nl19
