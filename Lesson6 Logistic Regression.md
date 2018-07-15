@@ -45,7 +45,13 @@ To make a prediction given new $x$: Output $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$
 Gradient descend is the same as the case in linear regression, but $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$ here while $h_\theta=\theta^Tx$ in linear regression.
 
 # Advanced Optimization
-$J(\theta)=(\theta_1-5)^2+(\theta_1-5)^2$
+
+Optimization algorithms:
+
+- Gradient descent;
+- Conjugate gradient
+
+e.g. $J(\theta)=(\theta_1-5)^2+(\theta_2-5)^2$
 > function[jval, gradient] = costFunction(theta)
 > jval = (theta(1)-5)^2+...
 >           (theta(1)-5)^2
@@ -62,6 +68,6 @@ $J(\theta)=(\theta_1-5)^2+(\theta_1-5)^2$
 
 # Multiclass Classification
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjM0MDMxNiwtMTM2NzAyNjU3NiwtMT
+eyJoaXN0b3J5IjpbMTEyMjcwNzc5MywtMTM2NzAyNjU3NiwtMT
 IyMTMyNzUyMSw5NDAyMjY2XX0=
 -->
