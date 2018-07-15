@@ -61,6 +61,7 @@ Gradient descend is the same as the case in linear regression, but $h_\theta=\fr
 **Disadvantages:**
 
 - more complex
+
 How to use advanced optimization?
 e.g. $J(\theta)=(\theta_1-5)^2+(\theta_2-5)^2$
 > function[jval, gradient] = costFunction(theta)
@@ -79,6 +80,6 @@ e.g. $J(\theta)=(\theta_1-5)^2+(\theta_2-5)^2$
 
 # Multiclass Classification
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODY1MDQyMzIsLTEzNjcwMjY1NzYsLT
+eyJoaXN0b3J5IjpbLTIwNjQ5NzMwNTAsLTEzNjcwMjY1NzYsLT
 EyMjEzMjc1MjEsOTQwMjI2Nl19
 -->
