@@ -41,7 +41,7 @@ To make a prediction given new $x$: Output $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$
 	$\theta_j:=\theta_j-\alpha\frac{1}{m}\sum \limits_{i=1}^{m}(h_\theta(x^{(i)})-y^{(i)})x^{(i)}_j$
 } (simultaneously update for every $j=0,...,n$)
 
-Gradient descend is the same as the case in linear regression, but 
+Gradient descend is the same as the case in linear regression, but $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$ here while $h_\theta=\theta^Tx$ in linear regression.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ4NTA0ODMsOTQwMjI2Nl19
+eyJoaXN0b3J5IjpbMTE4Nzk1NTAzNiw5NDAyMjY2XX0=
 -->
