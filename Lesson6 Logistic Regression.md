@@ -14,7 +14,7 @@ Suppose predict
 -
 
 Decision boundary is decided by $\theta$.
-Again, the input to the sigmoid function g(z) (e.g.  \theta^T XθTX) doesn't need to be linear, and could be a function that describes a circle (e.g.  z = \theta_0 + \theta_1 x_1^2 +\theta_2 x_2^2z=θ0​+θ1​x12​+θ2​x22​) or any shape to fit our data.
+Again, the input to the sigmoid function g(z) (e.g.  $\theta^TX$) doesn't need to be linear, and could be a function that describes a circle (e.g.  $z=\theta_0 + \theta_1 x_1^2 +\theta_2$) or any shape to fit our data.
 e.g. $x = [1;x_1;x_2;x_1^2;x_2^2]$,$\theta=[1;0;0;1;1]$, then the boundary is $x_1^2+x_2^2=1$
 
 # Cost Function
@@ -88,7 +88,7 @@ e.g. $J(\theta)=(\theta_1-5)^2+(\theta_2-5)^2$
 Train a logistic regression classifier $h_\theta^{(i)}$ for each class $i$ to predict the probability that $y = i$.
 On a new input $x$, to make a prediction, pick the class $i$ that maximizes $\max \limits_ih_\theta^{(i)}(x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTEyMjg4MCwtMTgxMjgxNTM5MywtNT
+eyJoaXN0b3J5IjpbMTEwMTM1NTA5OSwtMTgxMjgxNTM5MywtNT
 c5MTM4MDk2LDE4NTcxNjIwNywtMjA2NDk3MzA1MCwtMTM2NzAy
 NjU3NiwtMTIyMTMyNzUyMSw5NDAyMjY2XX0=
 -->
