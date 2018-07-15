@@ -43,6 +43,9 @@ To make a prediction given new $x$: Output $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$
 } (simultaneously update for every $j=0,...,n$)
 
 Gradient descend is the same as the case in linear regression, but $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$ here while $h_\theta=\theta^Tx$ in linear regression.
+
+# Advanced Optimization
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzQyNDMyNyw5NDAyMjY2XX0=
+eyJoaXN0b3J5IjpbLTEyMjEzMjc1MjEsOTQwMjI2Nl19
 -->
