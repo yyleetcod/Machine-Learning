@@ -79,7 +79,9 @@ e.g. $J(\theta)=(\theta_1-5)^2+(\theta_2-5)^2$
 >fminunc(@costFunction, initialTheta, options);
 
 # Multiclass Classification
+**One-vs-all**
+Train a logistic regression 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ5NzMwNTAsLTEzNjcwMjY1NzYsLT
-EyMjEzMjc1MjEsOTQwMjI2Nl19
+eyJoaXN0b3J5IjpbMTQ3MjM3NDc0MCwtMjA2NDk3MzA1MCwtMT
+M2NzAyNjU3NiwtMTIyMTMyNzUyMSw5NDAyMjY2XX0=
 -->
