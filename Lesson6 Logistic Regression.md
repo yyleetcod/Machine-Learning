@@ -24,7 +24,7 @@ $J(\theta)=\frac{1}{m}\sum \limits_{i=1}^mcost(h_\theta(x^{(i)}),y^{(i)})$
 \end{cases}$$
 we can prove that $J(\theta)$ is a convex function, which has only one global optimum.
 
-
+# Simplified Cost Function and Gradient Descent
 $cost(h_\theta(x),y)=-ylog(h_\theta(x))-(1-y)log(1-h_\theta(x))$
 $$
 J(\theta)=\frac{1}{m}\sum\limits_{i=1}^mcost(h_\theta(x^{(i)}),y^{(i)})=-\frac{1}{m}\sum\limits_{i=1}^mylog(h_\theta(x))+(1-y)log(1-h_\theta(x))$$(Max likehood estimation)
@@ -44,5 +44,5 @@ To make a prediction given new $x$: Output $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$
 
 Gradient descend is the same as the case in linear regression, but $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$ here while $h_\theta=\theta^Tx$ in linear regression.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3NDA2MTkwLDk0MDIyNjZdfQ==
+eyJoaXN0b3J5IjpbLTcyMzQyNDMyNyw5NDAyMjY2XX0=
 -->
