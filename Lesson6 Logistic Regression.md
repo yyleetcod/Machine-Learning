@@ -23,7 +23,7 @@ $J(\theta)=\frac{1}{m}\sum \limits_{i=1}^mcost(h_\theta(x^{(i)}),y^{(i)})$
 -log(1-h_\theta(x))& \text{if y = 0}  
 \end{cases}$$
 we can prove that $J(\theta)$ is a convex function, which has only one global optimum.
-
+$cost(h_\theta(x),y)=-ylog(h_\theta(x))-(1-y)log(1-h_\theta(x))$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjA1ODc4MTZdfQ==
+eyJoaXN0b3J5IjpbLTEzMDQxMTE3MDFdfQ==
 -->
