@@ -15,6 +15,8 @@ Decision boundary is decided by $\theta$.
 e.g. $x = [1;x_1;x_2;x_1^2;x_2^2]$,$\theta=[1;0;0;1;1]$, then the boundary is $x_1^2+x_2^2=1$
 
 # Cost Function
+To attempt classification, one method is to use linear regression and map all predictions greater than 0.5 as a 1 and all less than 0.5 as a 0. However, this method doesn't work well because classification is not actually a linear function.
+
 $J(\theta)=\frac{1}{m}\sum \limits_{i=1}^mcost(h_\theta(x^{(i)}),y^{(i)})$
 - For linear regression, $cost(h_\theta(x),y)=\frac{1}{2}(h_\theta(x)-y)^2$.But when we use it into logistic regression, where $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$, we will get a non_convex $J(\theta)$.
 - For logistic regression, define $$cost(h_\theta(x),y)=  
@@ -83,6 +85,7 @@ e.g. $J(\theta)=(\theta_1-5)^2+(\theta_2-5)^2$
 Train a logistic regression classifier $h_\theta^{(i)}$ for each class $i$ to predict the probability that $y = i$.
 On a new input $x$, to make a prediction, pick the class $i$ that maximizes $\max \limits_ih_\theta^{(i)}(x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzE2MjA3LC0yMDY0OTczMDUwLC0xMz
-Y3MDI2NTc2LC0xMjIxMzI3NTIxLDk0MDIyNjZdfQ==
+eyJoaXN0b3J5IjpbLTU3OTEzODA5NiwxODU3MTYyMDcsLTIwNj
+Q5NzMwNTAsLTEzNjcwMjY1NzYsLTEyMjEzMjc1MjEsOTQwMjI2
+Nl19
 -->
