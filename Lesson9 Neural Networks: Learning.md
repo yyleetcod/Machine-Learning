@@ -27,6 +27,7 @@ $\delta_j^{(2)}=(\Theta^{(2)})^T\delta^{(3)}.*g'(z^{(2)})=(\Theta^{(2)})^T\delta
 **Note**: We don't associate an error term with the input layer($\delta^{(1)}$)
 
 Then, $\frac{\partial}{\partial\Theta_{ij}^{(l)}}J(\Theta)=a_j^{(l)}\delta_i^{(l+1)}$
+![enter image description here](https://lh3.googleusercontent.com/HPIWWws2FQmhvh7-pKg9TR4j6--o-EC6LCZ3I6ZEDmx6_OJtd-QxrAdDEYncCCMNIg9q78zlm3A)
 
 Training set $\{(x^{(1)},y^{(1)}),...,(x^{(m)},y^{(m)})\}$
 Set $\Delta_{ij}^{(l)}=0$(for all $l,i,j$)(use to compute $\frac{\partial}{\partial\Theta_{ij}^{(l)}}J(\Theta)$)
@@ -49,6 +50,7 @@ $$
 
 Then $\frac{\partial}{\partial\Theta_{ij}^{(l)}}J(\Theta)=D_{ij}^{(l)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDg3ODEwMCwtOTU5NTM3MDgyLC0xMj
-Q4MTA5NzM3LDY5OTMyOTQyOCwxODYwOTM3NDg5XX0=
+eyJoaXN0b3J5IjpbLTEwODA5Mzc4MjIsLTE4MDg3ODEwMCwtOT
+U5NTM3MDgyLC0xMjQ4MTA5NzM3LDY5OTMyOTQyOCwxODYwOTM3
+NDg5XX0=
 -->
