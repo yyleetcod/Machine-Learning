@@ -6,6 +6,7 @@ $J(\theta)=-[\frac{1}{m}\sum\limits_{i=1}^mylog(h_\theta(x))+(1-y)log(1-h_\theta
 $J(\Theta)=-[\frac{1}{m}\sum\limits_{i=1}^m\sum\limits_{k=1}^K y_k^{(i)}log(h_\theta(x^{(i)}))_k+(1-y_k^{(i)})log(1-h_\theta(x^{(i)})_k)]+\frac{\lambda}{2m}\sum \limits_{l=1}^{L-1}\sum \limits_{i=1}^{s_l}\sum \limits_{j=1}^{s_{l+1}}(\Theta_{ji}^{(l)})^2$
 $L=$ total no. of layers in network
 $s_l=$ no. of units(not counting bias unit) in layer $l$
+$K=$ no. of output units/classes
 
 **Goal**:$\min \limits_\Theta J(\Theta)$
 Need code to compute 
@@ -43,5 +44,5 @@ $$
 
 - Then $\frac{\partial}{\partial\Theta_{ij}^{(l)}}J(\Theta)=D_{ij}^{(l)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDkzNzQ4OV19
+eyJoaXN0b3J5IjpbNjk5MzI5NDI4LDE4NjA5Mzc0ODldfQ==
 -->
