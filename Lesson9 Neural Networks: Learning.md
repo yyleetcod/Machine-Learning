@@ -33,7 +33,9 @@ For $i=1$ to $m$
 - Using $y^{(i)}$, compute $\delta^{(L)}=a^{(L)}-y^{(i)}$
 - Compute $\delta^{(L-1)},\delta^{(L-2)},...,\delta^{(2)}$
 - $\Delta_{ij}^{(l)}:=\Delta_{ij}^{(l)}+a_j^{(l)}\delta_i^{(l+1)}$ or $\Delta^{(l)}:=\Delta^{(l)}+\delta^{(l+1)}(a^{(l)})^T$
-- 
+
+
+Update D{ij}^{(l)}
 $$
 D{ij}^{(l)}=\frac{1}{m}
 \begin{cases}  
@@ -42,7 +44,8 @@ D{ij}^{(l)}=\frac{1}{m}
 \end{cases}
 $$
 
-- Then $\frac{\partial}{\partial\Theta_{ij}^{(l)}}J(\Theta)=D_{ij}^{(l)}$
+Then $\frac{\partial}{\partial\Theta_{ij}^{(l)}}J(\Theta)=D_{ij}^{(l)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5MzI5NDI4LDE4NjA5Mzc0ODldfQ==
+eyJoaXN0b3J5IjpbMzY5NTc4NzUsNjk5MzI5NDI4LDE4NjA5Mz
+c0ODldfQ==
 -->
