@@ -76,15 +76,20 @@ First, pick a network architecture; choose the layout of your neural network, in
 **Training a Neural Network**
 
 1.  Randomly initialize the weights
-2.  Implement forward propagation to get  $h_\Theta(x^{(i)}$)hΘ​(x(i))  for any  x^{(i)}x(i)
+2.  Implement forward propagation to get  $h_\Theta(x^{(i)}$)  for any  $x^{(i)}$
 3.  Implement the cost function
 4.  Implement backpropagation to compute partial derivatives
 5.  Use gradient checking to confirm that your backpropagation works. Then disable gradient checking.
 6.  Use gradient descent or a built-in optimization function to minimize the cost function with the weights in theta.
 
 When we perform forward and back propagation, we loop on every training example:
+```
+for i = 1:m,
+   Perform forward propagation and backpropagation using example (x(i),y(i))
+   Get activations a(l) and delta terms d(l) for l = 2,...,L
+   ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzAyNzM5LC01NTYzMDczMTksLTE2Nj
+eyJoaXN0b3J5IjpbLTc4MjQwNzQwLC01NTYzMDczMTksLTE2Nj
 gwNDQ2MTQsMjA0ODc2MjI2NywtMTA5OTgzMDg3NywtMTA4MDkz
 NzgyMiwtMTgwODc4MTAwLC05NTk1MzcwODIsLTEyNDgxMDk3Mz
 csNjk5MzI5NDI4LDE4NjA5Mzc0ODldfQ==
