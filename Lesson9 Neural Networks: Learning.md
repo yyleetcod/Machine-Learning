@@ -26,7 +26,7 @@ $\delta_j^{(2)}=(\Theta^{(2)})^T\delta^{(3)}.*g'(z^{(2)})=(\Theta^{(2)})^T\delta
 Then, $\frac{\partial}{\partial\Theta_{ij}^{(l)}}J(\Theta)=a_j^{(l)}\delta_i^{(l+1)}$
 
 Training set $\{(x^{(1)},y^{(1)}),...,(x^{(m)},y^{(m)})\}$
-Set $\Delta_{ij}^{(l)}=0$(for all $l,i,j$)
+Set $\Delta_{ij}^{(l)}=0$(for all $l,i,j$)(use to compute )
 For $i=1$ to $m$
 - Set $a^{(1)}=x^{(i)}$
 - Perform forward propagation to compute $a^{(l)}$ for $l=2,3,...,L$
@@ -35,7 +35,7 @@ For $i=1$ to $m$
 - $\Delta_{ij}^{(l)}:=\Delta_{ij}^{(l)}+a_j^{(l)}\delta_i^{(l+1)}$ or $\Delta^{(l)}:=\Delta^{(l)}+\delta^{(l+1)}(a^{(l)})^T$
 
 
-Update D{ij}^{(l)}
+Update $D{ij}^{(l)}$:
 $$
 D{ij}^{(l)}=\frac{1}{m}
 \begin{cases}  
@@ -46,6 +46,6 @@ $$
 
 Then $\frac{\partial}{\partial\Theta_{ij}^{(l)}}J(\Theta)=D_{ij}^{(l)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5NTc4NzUsNjk5MzI5NDI4LDE4NjA5Mz
-c0ODldfQ==
+eyJoaXN0b3J5IjpbLTM4Njk3MDU2OSw2OTkzMjk0MjgsMTg2MD
+kzNzQ4OV19
 -->
