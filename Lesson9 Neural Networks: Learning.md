@@ -65,9 +65,27 @@ Initializing all theta weights to zero does not work with neural networks. When 
 ![enter image description here](https://lh3.googleusercontent.com/sVHBVoqwD904GfstFgRoL3viXBxm9DuBOqmY_r8NHn9hSOzqyTymwD1N2I0z6UcwXkUuZ7X_2Tg)
 ![enter image description here](https://lh3.googleusercontent.com/Ee5OGbw-AqzpYKtShiXdA2nAo379Z_7GphnvR0rcesMKzaDDh_YjVa2lNKTH16cOQl7EoNd_3lo)
 ![enter image description here](https://lh3.googleusercontent.com/7MQpgqPjKyQ5CCHr5IljTZybUKet1J2ZhNaocyUgA0YqMEMogZPF6Cjc8ET3MwUv7gz6KlnVRIA)
+
+First, pick a network architecture; choose the layout of your neural network, including how many hidden units in each layer and how many layers in total you want to have.
+
+-   Number of input units = dimension of features  $x^{(i)}$
+-   Number of output units = number of classes
+-   Number of hidden units per layer = usually more the better (must balance with cost of computation as it increases with more hidden units)
+-   Defaults: 1 hidden layer. If you have more than 1 hidden layer, then it is recommended that you have the same number of units in every hidden layer.
+
+**Training a Neural Network**
+
+1.  Randomly initialize the weights
+2.  Implement forward propagation to get  h_\Theta(x^{(i)})hΘ​(x(i))  for any  x^{(i)}x(i)
+3.  Implement the cost function
+4.  Implement backpropagation to compute partial derivatives
+5.  Use gradient checking to confirm that your backpropagation works. Then disable gradient checking.
+6.  Use gradient descent or a built-in optimization function to minimize the cost function with the weights in theta.
+
+When we perform forward and back propagation, we loop on every training example:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NjMwNzMxOSwtMTY2ODA0NDYxNCwyMD
-Q4NzYyMjY3LC0xMDk5ODMwODc3LC0xMDgwOTM3ODIyLC0xODA4
-NzgxMDAsLTk1OTUzNzA4MiwtMTI0ODEwOTczNyw2OTkzMjk0Mj
-gsMTg2MDkzNzQ4OV19
+eyJoaXN0b3J5IjpbLTE5MTg5NzU5MzksLTU1NjMwNzMxOSwtMT
+Y2ODA0NDYxNCwyMDQ4NzYyMjY3LC0xMDk5ODMwODc3LC0xMDgw
+OTM3ODIyLC0xODA4NzgxMDAsLTk1OTUzNzA4MiwtMTI0ODEwOT
+czNyw2OTkzMjk0MjgsMTg2MDkzNzQ4OV19
 -->
