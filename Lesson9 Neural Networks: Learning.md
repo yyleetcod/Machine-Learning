@@ -58,9 +58,9 @@ Then $\frac{\partial}{\partial\Theta_{ij}^{(l)}}J(\Theta)=D_{ij}^{(l)}$
 
 # Random Initialization
 ![enter image description here](https://lh3.googleusercontent.com/-hhkn7fv2u3x2odWS5E2R5dAkxdU5wEvRruzEBVYLstgvIA_-W9ymCLyKLKKA4-WhuqlpXN9E8Y)
-
+![enter image description here](https://lh3.googleusercontent.com/2lkcfKVUDw5f8QRk_uJBQJ164Lk_GNyQovVGi5IhU2aftHAC1kZpvfra2uX3Sa4ZorgcRcZgAuU)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDA3NTg5MCwtMTA5OTgzMDg3NywtMT
+eyJoaXN0b3J5IjpbMjA0ODc2MjI2NywtMTA5OTgzMDg3NywtMT
 A4MDkzNzgyMiwtMTgwODc4MTAwLC05NTk1MzcwODIsLTEyNDgx
 MDk3MzcsNjk5MzI5NDI4LDE4NjA5Mzc0ODldfQ==
 -->
