@@ -61,10 +61,12 @@ Then $\frac{\partial}{\partial\Theta_{ij}^{(l)}}J(\Theta)=D_{ij}^{(l)}$
 ![enter image description here](https://lh3.googleusercontent.com/2lkcfKVUDw5f8QRk_uJBQJ164Lk_GNyQovVGi5IhU2aftHAC1kZpvfra2uX3Sa4ZorgcRcZgAuU)
 
 # Put It Together
-
+![enter image description here](https://lh3.googleusercontent.com/sVHBVoqwD904GfstFgRoL3viXBxm9DuBOqmY_r8NHn9hSOzqyTymwD1N2I0z6UcwXkUuZ7X_2Tg)
+![enter image description here](https://lh3.googleusercontent.com/Ee5OGbw-AqzpYKtShiXdA2nAo379Z_7GphnvR0rcesMKzaDDh_YjVa2lNKTH16cOQl7EoNd_3lo)
+![enter image description here](https://lh3.googleusercontent.com/7MQpgqPjKyQ5CCHr5IljTZybUKet1J2ZhNaocyUgA0YqMEMogZPF6Cjc8ET3MwUv7gz6KlnVRIA)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5NTUwMjUwLDIwNDg3NjIyNjcsLTEwOT
-k4MzA4NzcsLTEwODA5Mzc4MjIsLTE4MDg3ODEwMCwtOTU5NTM3
-MDgyLC0xMjQ4MTA5NzM3LDY5OTMyOTQyOCwxODYwOTM3NDg5XX
-0=
+eyJoaXN0b3J5IjpbLTE2NjgwNDQ2MTQsMjA0ODc2MjI2NywtMT
+A5OTgzMDg3NywtMTA4MDkzNzgyMiwtMTgwODc4MTAwLC05NTk1
+MzcwODIsLTEyNDgxMDk3MzcsNjk5MzI5NDI4LDE4NjA5Mzc0OD
+ldfQ==
 -->
