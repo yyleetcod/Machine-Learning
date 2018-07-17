@@ -49,8 +49,10 @@ D{ij}^{(l)}=\frac{1}{m}
 $$
 
 Then $\frac{\partial}{\partial\Theta_{ij}^{(l)}}J(\Theta)=D_{ij}^{(l)}$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODA5Mzc4MjIsLTE4MDg3ODEwMCwtOT
-U5NTM3MDgyLC0xMjQ4MTA5NzM3LDY5OTMyOTQyOCwxODYwOTM3
-NDg5XX0=
+eyJoaXN0b3J5IjpbLTMxNTI3MDUzMCwtMTA4MDkzNzgyMiwtMT
+gwODc4MTAwLC05NTk1MzcwODIsLTEyNDgxMDk3MzcsNjk5MzI5
+NDI4LDE4NjA5Mzc0ODldfQ==
 -->
