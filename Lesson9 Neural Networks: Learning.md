@@ -17,6 +17,7 @@ Need code to compute
 
 **Back propagation algorithm**
 $\delta_j^{(l)}=$ "error" of node $j$ in layer $l$
+In fact, $\delta_j^{(l)}=\frac{\partial}{\partial}cost^{i}$
 
 For each output unit(layer L = 4)
 $\delta_j^{(4)}=a_j^{(4)}-y_i$
@@ -47,6 +48,6 @@ $$
 
 Then $\frac{\partial}{\partial\Theta_{ij}^{(l)}}J(\Theta)=D_{ij}^{(l)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTUzNzA4MiwtMTI0ODEwOTczNyw2OT
-kzMjk0MjgsMTg2MDkzNzQ4OV19
+eyJoaXN0b3J5IjpbLTc2MDM1MDE1OCwtOTU5NTM3MDgyLC0xMj
+Q4MTA5NzM3LDY5OTMyOTQyOCwxODYwOTM3NDg5XX0=
 -->
