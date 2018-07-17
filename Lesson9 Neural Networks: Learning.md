@@ -58,6 +58,7 @@ Then $\frac{\partial}{\partial\Theta_{ij}^{(l)}}J(\Theta)=D_{ij}^{(l)}$
 
 # Random Initialization
 ![enter image description here](https://lh3.googleusercontent.com/-hhkn7fv2u3x2odWS5E2R5dAkxdU5wEvRruzEBVYLstgvIA_-W9ymCLyKLKKA4-WhuqlpXN9E8Y)
+Initializing all theta weights to zero does not work with neural networks. When we backpropagate, all nodes will update to the same value repeatedly. Instead we can randomly initialize our weights for our $\Theta$ matrices using the following method:
 ![enter image description here](https://lh3.googleusercontent.com/2lkcfKVUDw5f8QRk_uJBQJ164Lk_GNyQovVGi5IhU2aftHAC1kZpvfra2uX3Sa4ZorgcRcZgAuU)
 
 # Put It Together
@@ -65,8 +66,8 @@ Then $\frac{\partial}{\partial\Theta_{ij}^{(l)}}J(\Theta)=D_{ij}^{(l)}$
 ![enter image description here](https://lh3.googleusercontent.com/Ee5OGbw-AqzpYKtShiXdA2nAo379Z_7GphnvR0rcesMKzaDDh_YjVa2lNKTH16cOQl7EoNd_3lo)
 ![enter image description here](https://lh3.googleusercontent.com/7MQpgqPjKyQ5CCHr5IljTZybUKet1J2ZhNaocyUgA0YqMEMogZPF6Cjc8ET3MwUv7gz6KlnVRIA)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjgwNDQ2MTQsMjA0ODc2MjI2NywtMT
-A5OTgzMDg3NywtMTA4MDkzNzgyMiwtMTgwODc4MTAwLC05NTk1
-MzcwODIsLTEyNDgxMDk3MzcsNjk5MzI5NDI4LDE4NjA5Mzc0OD
-ldfQ==
+eyJoaXN0b3J5IjpbLTU1NjMwNzMxOSwtMTY2ODA0NDYxNCwyMD
+Q4NzYyMjY3LC0xMDk5ODMwODc3LC0xMDgwOTM3ODIyLC0xODA4
+NzgxMDAsLTk1OTUzNzA4MiwtMTI0ODEwOTczNyw2OTkzMjk0Mj
+gsMTg2MDkzNzQ4OV19
 -->
