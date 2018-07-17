@@ -88,8 +88,9 @@ for i = 1:m,
    Perform forward propagation and backpropagation using example (x(i),y(i))
    Get activations a(l) and delta terms d(l) for l = 2,...,L
    ```
+   Ideally, you want $h_\Theta(x^{(i)}) \approx y^{(i)}$. This will minimize our cost function. However, keep in mind that $J(\Theta)$ is not convex and thus we can end up in a local minimum instead.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjQwNzQwLC01NTYzMDczMTksLTE2Nj
+eyJoaXN0b3J5IjpbMTQ5MDY4ODYzLC01NTYzMDczMTksLTE2Nj
 gwNDQ2MTQsMjA0ODc2MjI2NywtMTA5OTgzMDg3NywtMTA4MDkz
 NzgyMiwtMTgwODc4MTAwLC05NTk1MzcwODIsLTEyNDgxMDk3Mz
 csNjk5MzI5NDI4LDE4NjA5Mzc0ODldfQ==
