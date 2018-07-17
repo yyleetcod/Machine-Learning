@@ -8,6 +8,7 @@ $L=$ total no. of layers in network
 $s_l=$ no. of units(not counting bias unit) in layer $l$
 $K=$ no. of output units/classes
 
+# Back Propagation Algorithm
 **Goal**:$\min \limits_\Theta J(\Theta)$
 Need code to compute 
 
@@ -46,6 +47,6 @@ $$
 
 Then $\frac{\partial}{\partial\Theta_{ij}^{(l)}}J(\Theta)=D_{ij}^{(l)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDgxMDk3MzcsNjk5MzI5NDI4LDE4Nj
-A5Mzc0ODldfQ==
+eyJoaXN0b3J5IjpbLTk1OTUzNzA4MiwtMTI0ODEwOTczNyw2OT
+kzMjk0MjgsMTg2MDkzNzQ4OV19
 -->
