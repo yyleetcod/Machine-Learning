@@ -11,10 +11,13 @@
 
 # Learning Curves
 
-
+![enter image description here](https://lh3.googleusercontent.com/5QTuKqI_0xoqVhSByFoWDIyuFxHhJKpDr_yQE3IxrUyoZOQ9YvwhZD0HBLcPpotG73HJbWl7KEk)
+![enter image description here](https://lh3.googleusercontent.com/pUqXO-7He2IOPL5moAnFo6Gxz3pLrrN1QUYUfcY2L0qFOLeiYRGNnyAdae5WZ3dWPvoiuVBOEOM)
+![enter image description here](https://lh3.googleusercontent.com/O7rY_hN8Oc49weUlMwpcGdisrbNU_ikeP1N1U4eGrcfn3WiwI9mEk3PYWIj3kLPugEETopG4pPU)
 
 # Deciding What to do Next Revisited
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjMxMDM4MzIsLTE0NjE2NjY4NjgsLT
+eyJoaXN0b3J5IjpbLTIwMzg2MDUxOTEsLTE0NjE2NjY4NjgsLT
 E4MDcxNDMwODMsMTk4MDI4MDAyNCwtNTAzOTg1MzcxXX0=
 -->
