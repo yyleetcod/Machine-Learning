@@ -11,8 +11,10 @@
 
 # Learning Curves
 
+
+
 # Deciding What to do Next Revisited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE2NjY4NjgsLTE4MDcxNDMwODMsMT
-k4MDI4MDAyNCwtNTAzOTg1MzcxXX0=
+eyJoaXN0b3J5IjpbLTE4MjMxMDM4MzIsLTE0NjE2NjY4NjgsLT
+E4MDcxNDMwODMsMTk4MDI4MDAyNCwtNTAzOTg1MzcxXX0=
 -->
