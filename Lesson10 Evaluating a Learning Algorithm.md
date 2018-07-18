@@ -9,8 +9,10 @@
 ![enter image description here](https://lh3.googleusercontent.com/BOLkogc0PP_1azr7A1El-AtblGPG_WnTPL7BU9ROSpE4juFK5YbeuVN_mXgPL4KrZKHy0M7uIKE)
 ![enter image description here](https://lh3.googleusercontent.com/o_RE00gBhg-ZnnFrvRffKED7cxiiZfwgcj6w3Rpj43psUvXKkqhyYOmdh78iBXPuIvUD_KKMTcA)
 
+# Learning Curves
 
+# Deciding What to do Next Revisited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzA4NjExODEsLTE4MDcxNDMwODMsMT
+eyJoaXN0b3J5IjpbLTE0NjE2NjY4NjgsLTE4MDcxNDMwODMsMT
 k4MDI4MDAyNCwtNTAzOTg1MzcxXX0=
 -->
