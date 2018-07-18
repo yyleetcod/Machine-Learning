@@ -1,6 +1,16 @@
 # Model Selection and Train/Validation/Test Sets
 ![enter image description here](https://lh3.googleusercontent.com/kJXNYkQLHGG7LbppzjfPDvRv754SnpCynXJlue_hsb7sCurR-5xBMgXUB3LimOG85v0UtV2OF0g)
+One way to break down our dataset into the three sets is:
 
+-   Training set: 60%
+-   Cross validation set: 20%
+-   Test set: 20%
+
+We can now calculate three separate error values for the three different sets using the following method:
+
+1.  Optimize the parameters in $\Theta$ using the training set for each polynomial degree.
+2.  Find the polynomial degree d with the least error using the cross validation set.
+3.  Estimate the generalization error using the test set with $J_{test}(\Theta^{(d)})$, ($\Theta^{(d)}:$ from polynomial with lower error);
 # Diagnosing Bias vs. Variance
 ![enter image description here](https://lh3.googleusercontent.com/beTGeArw5TayCfVykKOtIg6itLRsC7tMJltl9xoAQHrJPGZsZO65eEV_r1C9iyBOOtSD_kDn_L8)
 
@@ -18,10 +28,15 @@
 # Deciding What to do Next Revisited
 ![enter image description here](https://lh3.googleusercontent.com/H7_wH31HxJ3Z52mN2qcv9GW5sAVtMy95mQWLuHSD1o36NHYSfL2QP5BZbqZYmFBkndGu326MD7g)
 ![enter image description here](https://lh3.googleusercontent.com/LVYAZhncz2DbmbI9YFlTBS3q0FaG4llT2NY4ZgRkp7PRbe5KGLVim8EKvUOtKSMUP_t0M6-DTN4)
+**Model Complexity Effects:**
+
+-   Lower-order polynomials (low model complexity) have high bias and low variance. In this case, the model fits poorly consistently.
+-   Higher-order polynomials (high model complexity) fit the training data extremely well and the test data extremely poorly. These have low bias on the training data, but very high variance.
+-   In reality, we would want to choose a model somewhere in between, that can generalize well but also fits the data reasonably well.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3MjA3MDU4LC0yMDM4NjA1MTkxLC0xND
-YxNjY2ODY4LC0xODA3MTQzMDgzLDE5ODAyODAwMjQsLTUwMzk4
-NTM3MV19
+eyJoaXN0b3J5IjpbOTk1MTkyMDY2LDc3NzIwNzA1OCwtMjAzOD
+YwNTE5MSwtMTQ2MTY2Njg2OCwtMTgwNzE0MzA4MywxOTgwMjgw
+MDI0LC01MDM5ODUzNzFdfQ==
 -->
