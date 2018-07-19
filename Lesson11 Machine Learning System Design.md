@@ -29,9 +29,10 @@ Predict $y=1$ if $h_\theta>$threshold
 Large threshold results in higher precision and lower recall.(avoid false positive)
 Small threshold results in higher recall and lower precision.(avoid false negative)
 ![enter image description here](https://lh3.googleusercontent.com/eAKxSQ5ZzzkFgs_yIIjOgd5h7ZyVCE0s_0-8WvnQVxogFuNhklI5jPlD6D5cOOXVJ9oa6PWZSQA)
-$F1 scores = \frac{2PR}$
+
+$F_1 Score = \frac{2PR}{P+R}$
 # Data For Machine Learning
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3MzA5MDg0LDQ2NDU2NDM5NywtMTUyOD
+eyJoaXN0b3J5IjpbMjYwMTU4MjAzLDQ2NDU2NDM5NywtMTUyOD
 czMzM3MV19
 -->
