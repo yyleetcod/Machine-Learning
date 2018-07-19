@@ -28,9 +28,9 @@ It is very important to get error results as a single, numerical value. Otherwis
 Predict $y=1$ if $h_\theta>$threshold 
 Large threshold results in higher precision and lower recall.(avoid false positive)
 Small threshold results in higher recall and lower precision.(avoid false negative)
+![enter image description here](https://lh3.googleusercontent.com/eAKxSQ5ZzzkFgs_yIIjOgd5h7ZyVCE0s_0-8WvnQVxogFuNhklI5jPlD6D5cOOXVJ9oa6PWZSQA)
 
 # Data For Machine Learning
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjc3NjY0NDEsLTE1Mjg3MzMzNzFdfQ
-==
+eyJoaXN0b3J5IjpbNDY0NTY0Mzk3LC0xNTI4NzMzMzcxXX0=
 -->
