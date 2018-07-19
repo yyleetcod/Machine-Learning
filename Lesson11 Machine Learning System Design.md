@@ -32,7 +32,8 @@ Small threshold results in higher recall and lower precision.(avoid false negati
 
 $F_1 Score = \frac{2PR}{P+R}$
 # Data For Machine Learning
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwMTU4MjAzLDQ2NDU2NDM5NywtMTUyOD
-czMzM3MV19
+eyJoaXN0b3J5IjpbLTEzNTc0NTE2NzEsMjYwMTU4MjAzLDQ2ND
+U2NDM5NywtMTUyODczMzM3MV19
 -->
