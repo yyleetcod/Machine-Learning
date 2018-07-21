@@ -44,14 +44,17 @@ If $p^{(i)}$ is very small, that means we need $||\theta||$ to be very large, re
 
 given $x$,  $f_i=similarity(x,l^{(i)})=k(x,l^{(i)})=e^{-\frac{||x-l^{(i)}||^2}{2\sigma^2}}$
 where $l^{(i)}=x^{(i)},||x-l^{(i)}||^2=\sum\limits_{j=1}^n(x_j-l_j^{(i)})^2,i=1,2,...,m$
+
 here we use gaussian kernel
 If $x\approx l^{(i)},f_i\approx 1$
 If $x$ is far from $l^{(i)},f_i\approx 0$
+
+Predict "1" when $\theta^Tf\ge0$
 
 # Kernels II
 
 # Using An SVM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODMyMjgwMywxMTI2MzI4ODg2LC0xNT
-czOTk0NTkwXX0=
+eyJoaXN0b3J5IjpbLTE1MDk2NTQ5OTksMTkyODMyMjgwMywxMT
+I2MzI4ODg2LC0xNTczOTk0NTkwXX0=
 -->
