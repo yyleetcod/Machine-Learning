@@ -42,10 +42,11 @@ If $p^{(i)}$ is very small, that means we need $||\theta||$ to be very large, re
 
 # Kernels I
 
-given $x$,  $f_i=similarity(x,l^{(i)})=e^{-\frac{||x-l^{(i)}||^2}{2\sigma^2}}$,where $l^{(i)}=x^{()i}$
+given $x$,  $f_i=similarity(x,l^{(i)})=e^{-\frac{||x-l^{(i)}||^2}{2\sigma^2}}=e^{-\frac{\sum\l^2}{2\sigma^2}}$
+where $l^{(i)}=x^{(i)}$
 # Kernels II
 
 # Using An SVM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1MTM2ODYzLC0xNTczOTk0NTkwXX0=
+eyJoaXN0b3J5IjpbMTczMjc3NjI0MiwtMTU3Mzk5NDU5MF19
 -->
