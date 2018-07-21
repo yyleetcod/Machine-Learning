@@ -69,9 +69,11 @@ $C(=\frac{1}{\lambda})$.
 Large C(small $\lambda$): lower bias, high variance.
 Small C(large $\lambda$): higher bias, low variance.
 $\sigma^2$
-Large $\sigma^2$:
+Large $\sigma^2$: Features $f_i$ vary more smoothly. Higher bias, low variance.
+Small $\sigma^2$: Features $f_i$ vary less smoothly. l bias, low variance.
+
 # Using An SVM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTMyNTEzOCwtMTUwOTY1NDk5OSwxOT
-I4MzIyODAzLDExMjYzMjg4ODYsLTE1NzM5OTQ1OTBdfQ==
+eyJoaXN0b3J5IjpbLTE2MTg1MTUzMTMsLTE1MDk2NTQ5OTksMT
+kyODMyMjgwMywxMTI2MzI4ODg2LC0xNTczOTk0NTkwXX0=
 -->
