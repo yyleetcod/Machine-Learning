@@ -73,7 +73,9 @@ Large $\sigma^2$: Features $f_i$ vary more smoothly. Higher bias, low variance.(
 Small $\sigma^2$: Features $f_i$ vary less smoothly. Lower bias, high variance.(Overfit)
 
 # Using An SVM
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjYzNjg2MiwtMTUwOTY1NDk5OSwxOT
-I4MzIyODAzLDExMjYzMjg4ODYsLTE1NzM5OTQ1OTBdfQ==
+eyJoaXN0b3J5IjpbOTcyNzg0NzQ4LDIwNzI2MzY4NjIsLTE1MD
+k2NTQ5OTksMTkyODMyMjgwMywxMTI2MzI4ODg2LC0xNTczOTk0
+NTkwXX0=
 -->
