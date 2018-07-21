@@ -63,8 +63,9 @@ Sometimes we may replace it with $\frac{1}{2}\theta^TM\theta$ for computational 
 
 Using kernels in logistic regression will be very slow.
 
+**SVM parameters**
 # Using An SVM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzE2ODQ3ODAsLTE1MDk2NTQ5OTksMT
-kyODMyMjgwMywxMTI2MzI4ODg2LC0xNTczOTk0NTkwXX0=
+eyJoaXN0b3J5IjpbODQ1ODc4MTQ2LC0xNTA5NjU0OTk5LDE5Mj
+gzMjI4MDMsMTEyNjMyODg4NiwtMTU3Mzk5NDU5MF19
 -->
