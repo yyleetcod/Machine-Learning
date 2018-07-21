@@ -89,9 +89,14 @@ We need feature scaling when we use kernels to compute feature $f_i$.
 
 Many off-the-shelf kernels available:
 
-- 
+- Polynomial kernel
+- String kernel
+- Chi-squre kernel 
+- Histogram intersection kernel
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0NzgxOTYyLC05NDg2MzEwNjEsMjAyOT
+eyJoaXN0b3J5IjpbNTE1ODgwOTE2LC05NDg2MzEwNjEsMjAyOT
 M1MTk3NywyMDcyNjM2ODYyLC0xNTA5NjU0OTk5LDE5MjgzMjI4
 MDMsMTEyNjMyODg4NiwtMTU3Mzk5NDU5MF19
 -->
