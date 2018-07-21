@@ -52,9 +52,11 @@ If $x$ is far from $l^{(i)},f_i\approx 0$
 Predict "1" when $\theta^Tf\ge0$
 
 # Kernels II
-**SVM  wi**
+**SVM  with Kernels**
+Hypothesis: Given $x$, compute features $f\in\Re^{m+1}$,predict "$y=1$" if $\theta^Tf\ge0$
+
 # Using An SVM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDk0OTA4MzcsLTE1MDk2NTQ5OTksMT
+eyJoaXN0b3J5IjpbLTE2NjE5MzA5MzYsLTE1MDk2NTQ5OTksMT
 kyODMyMjgwMywxMTI2MzI4ODg2LC0xNTczOTk0NTkwXX0=
 -->
