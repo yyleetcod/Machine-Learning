@@ -94,10 +94,10 @@ Many off-the-shelf kernels available:
 - Chi-squre kernel 
 - Histogram intersection kernel
 
-If $n$ is large
+If $n$ is large(relative to $m$)($$): use logistic regression, or SVM without a kernel("linear kernel")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODY0NTU2MzAsNTE1ODgwOTE2LC05ND
-g2MzEwNjEsMjAyOTM1MTk3NywyMDcyNjM2ODYyLC0xNTA5NjU0
-OTk5LDE5MjgzMjI4MDMsMTEyNjMyODg4NiwtMTU3Mzk5NDU5MF
-19
+eyJoaXN0b3J5IjpbNjk3MDI5MTA2LDUxNTg4MDkxNiwtOTQ4Nj
+MxMDYxLDIwMjkzNTE5NzcsMjA3MjYzNjg2MiwtMTUwOTY1NDk5
+OSwxOTI4MzIyODAzLDExMjYzMjg4ODYsLTE1NzM5OTQ1OTBdfQ
+==
 -->
