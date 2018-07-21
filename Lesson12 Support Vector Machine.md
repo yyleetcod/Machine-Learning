@@ -95,10 +95,11 @@ Many off-the-shelf kernels available:
 - Histogram intersection kernel
 
 If $n$ is large(relative to $m$)($n>m$): use logistic regression, or SVM without a kernel("linear kernel")
+e.g. 
 If $n$ is small, $m$ is intermediate: use SVM with gaussian kernel
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0Mzc3OTM0LDUxNTg4MDkxNiwtOTQ4Nj
-MxMDYxLDIwMjkzNTE5NzcsMjA3MjYzNjg2MiwtMTUwOTY1NDk5
-OSwxOTI4MzIyODAzLDExMjYzMjg4ODYsLTE1NzM5OTQ1OTBdfQ
-==
+eyJoaXN0b3J5IjpbMTQ4MTc4MDYyNiw3NzQzNzc5MzQsNTE1OD
+gwOTE2LC05NDg2MzEwNjEsMjAyOTM1MTk3NywyMDcyNjM2ODYy
+LC0xNTA5NjU0OTk5LDE5MjgzMjI4MDMsMTEyNjMyODg4NiwtMT
+U3Mzk5NDU5MF19
 -->
