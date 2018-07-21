@@ -84,8 +84,10 @@ E.g.
 where $l^{(i)}=x^{(i)}$, need to choose $\sigma^2$
 We choose no kernel when $n$ is large while $m$ is small, $x\in\Re^{n+1}$ and we want to get a linear decision boundary.
 We choose gaussian kernel when $n$ is small while $m$ is large, $f\in\Re^{m+1}$ and we want to get a nonlinear decision boundary.
+
+We need feature scaling when 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTM1MTk3NywyMDcyNjM2ODYyLC0xNT
-A5NjU0OTk5LDE5MjgzMjI4MDMsMTEyNjMyODg4NiwtMTU3Mzk5
-NDU5MF19
+eyJoaXN0b3J5IjpbLTQyMDg4ODg5MiwyMDI5MzUxOTc3LDIwNz
+I2MzY4NjIsLTE1MDk2NTQ5OTksMTkyODMyMjgwMywxMTI2MzI4
+ODg2LC0xNTczOTk0NTkwXX0=
 -->
