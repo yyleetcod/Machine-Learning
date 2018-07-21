@@ -82,8 +82,9 @@ E.g.
 **No kernel("linear kernel")**:Predict "$y=1$" if $\theta^Tx\ge0$
 **Gaussian kernel**:$f_i=e^{-\frac{||x-l^{(i)}||^2}{2\sigma^2}}$
 where $l^{(i)}=x^{(i)}$, need to choose $\sigma^2$
+We choose no kernel when $n$ is large while $m$ is small, $x\in\Re^{}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTAwMDQ5NTksMjA3MjYzNjg2MiwtMT
-UwOTY1NDk5OSwxOTI4MzIyODAzLDExMjYzMjg4ODYsLTE1NzM5
-OTQ1OTBdfQ==
+eyJoaXN0b3J5IjpbLTQ0Mzc0MzE3MiwyMDcyNjM2ODYyLC0xNT
+A5NjU0OTk5LDE5MjgzMjI4MDMsMTEyNjMyODg4NiwtMTU3Mzk5
+NDU5MF19
 -->
