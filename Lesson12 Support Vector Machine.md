@@ -100,12 +100,12 @@ e.g. $n=1000,m=10-1000$
 If $n$ is small, $m$ is intermediate: use SVM with gaussian kernel
 e.g. $n=1-1000,m=10000$
 
-If $n$ is small, $m$ is large: create/add featr
+If $n$ is small, $m$ is large: create/add features, then use logistic regression or SVM without kernel
 e.g. $n=1-1000,m=50000+$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjYwNzI2Miw3NzQzNzc5MzQsNTE1OD
-gwOTE2LC05NDg2MzEwNjEsMjAyOTM1MTk3NywyMDcyNjM2ODYy
-LC0xNTA5NjU0OTk5LDE5MjgzMjI4MDMsMTEyNjMyODg4NiwtMT
-U3Mzk5NDU5MF19
+eyJoaXN0b3J5IjpbLTE0NjkzNjIyMjgsNzc0Mzc3OTM0LDUxNT
+g4MDkxNiwtOTQ4NjMxMDYxLDIwMjkzNTE5NzcsMjA3MjYzNjg2
+MiwtMTUwOTY1NDk5OSwxOTI4MzIyODAzLDExMjYzMjg4ODYsLT
+E1NzM5OTQ1OTBdfQ==
 -->
