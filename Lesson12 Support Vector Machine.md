@@ -76,9 +76,11 @@ Small $\sigma^2$: Features $f_i$ vary less smoothly. Lower bias, high variance.(
 
 Need to specify:
 
-- choice of par
+- Choice of parameter C
+- Choice of kernel(similarity function):
+E.g. No kernel("linear kernel"):Predict "$y=1$" if
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTg2Mjk5NCwyMDcyNjM2ODYyLC0xNT
+eyJoaXN0b3J5IjpbMTIxMTExNjI3MywyMDcyNjM2ODYyLC0xNT
 A5NjU0OTk5LDE5MjgzMjI4MDMsMTEyNjMyODg4NiwtMTU3Mzk5
 NDU5MF19
 -->
