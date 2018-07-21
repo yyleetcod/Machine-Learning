@@ -82,9 +82,10 @@ E.g.
 **No kernel("linear kernel")**:Predict "$y=1$" if $\theta^Tx\ge0$
 **Gaussian kernel**:$f_i=e^{-\frac{||x-l^{(i)}||^2}{2\sigma^2}}$
 where $l^{(i)}=x^{(i)}$, need to choose $\sigma^2$
-We choose no kernel when $n$ is large while $m$ is small, $x\in\Re^{}$
+We choose no kernel when $n$ is large while $m$ is small, $x\in\Re^{n+1}$ and we want to get a linear decision boundary.
+We choose gaussian kernel when $n$ is small while $m$ is large, $f\in\Re^{m+1}$ and we want to get a nonlinear decision boundary.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Mzc0MzE3MiwyMDcyNjM2ODYyLC0xNT
+eyJoaXN0b3J5IjpbMjAyOTM1MTk3NywyMDcyNjM2ODYyLC0xNT
 A5NjU0OTk5LDE5MjgzMjI4MDMsMTEyNjMyODg4NiwtMTU3Mzk5
 NDU5MF19
 -->
