@@ -64,8 +64,12 @@ Sometimes we may replace it with $\frac{1}{2}\theta^TM\theta$ for computational 
 Using kernels in logistic regression will be very slow.
 
 **SVM parameters**
+
+$C(=\frac{1}{\lambda})$.
+Large C: lower bias, high variance.
+Small C: higher bias, low variance.
 # Using An SVM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1ODc4MTQ2LC0xNTA5NjU0OTk5LDE5Mj
+eyJoaXN0b3J5IjpbNzE5MTQwMDIzLC0xNTA5NjU0OTk5LDE5Mj
 gzMjI4MDMsMTEyNjMyODg4NiwtMTU3Mzk5NDU5MF19
 -->
