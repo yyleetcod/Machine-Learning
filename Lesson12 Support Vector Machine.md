@@ -52,9 +52,9 @@ If $x$ is far from $l^{(i)},f_i\approx 0$
 Predict "1" when $\theta^Tf\ge0$
 
 # Kernels II
-
+**SVM  wi**
 # Using An SVM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk2NTQ5OTksMTkyODMyMjgwMywxMT
-I2MzI4ODg2LC0xNTczOTk0NTkwXX0=
+eyJoaXN0b3J5IjpbLTEzMDk0OTA4MzcsLTE1MDk2NTQ5OTksMT
+kyODMyMjgwMywxMTI2MzI4ODg2LC0xNTczOTk0NTkwXX0=
 -->
