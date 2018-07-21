@@ -52,6 +52,7 @@ If $x$ is far from $l^{(i)},f_i\approx 0$
 Predict "1" when $\theta^Tf\ge0$
 
 # Kernels II
+
 **SVM  with Kernels**
 Hypothesis: 
 Given $x$, compute features $f\in\Re^{m+1}$,predict "$y=1$" if $\theta^Tf\ge0$
@@ -59,8 +60,10 @@ Training:
 $J(\theta)=C\sum\limits_{i=1}^m[y^{(i)}cost_1(\theta^Tf^{(i)})+(1-y)cost_0(\theta^Tf^{(i)})]+\frac{1}{2}\sum\limits_{j=1}^n\theta_j^2$
 Regularization item: $\frac{1}{2}\sum\limits_{j=1}^n\theta_j^2=\frac{1}{2}\theta^T\theta$
 Sometimes we may replace it with $\frac{1}{2}\theta^TM\theta$ for computational efficiency.
+
+
 # Using An SVM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjYwODgxMCwtMTUwOTY1NDk5OSwxOT
-I4MzIyODAzLDExMjYzMjg4ODYsLTE1NzM5OTQ1OTBdfQ==
+eyJoaXN0b3J5IjpbLTEwMjE5MTc1NjQsLTE1MDk2NTQ5OTksMT
+kyODMyMjgwMywxMTI2MzI4ODg2LC0xNTczOTk0NTkwXX0=
 -->
