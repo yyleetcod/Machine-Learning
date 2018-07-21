@@ -86,8 +86,12 @@ We choose no kernel when $n$ is large while $m$ is small, $x\in\Re^{n+1}$ and we
 We choose gaussian kernel when $n$ is small while $m$ is large, $f\in\Re^{m+1}$ and we want to get a nonlinear decision boundary.
 
 We need feature scaling when we use kernels to compute feature $f_i$.
+
+Many off-the-shelf kernels available:
+
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODYzMTA2MSwyMDI5MzUxOTc3LDIwNz
-I2MzY4NjIsLTE1MDk2NTQ5OTksMTkyODMyMjgwMywxMTI2MzI4
-ODg2LC0xNTczOTk0NTkwXX0=
+eyJoaXN0b3J5IjpbOTc0NzgxOTYyLC05NDg2MzEwNjEsMjAyOT
+M1MTk3NywyMDcyNjM2ODYyLC0xNTA5NjU0OTk5LDE5MjgzMjI4
+MDMsMTEyNjMyODg4NiwtMTU3Mzk5NDU5MF19
 -->
