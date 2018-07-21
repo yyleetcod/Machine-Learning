@@ -74,8 +74,11 @@ Small $\sigma^2$: Features $f_i$ vary less smoothly. Lower bias, high variance.(
 
 # Using An SVM
 
+Need to specify:
+
+- choice of par
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyNzg0NzQ4LDIwNzI2MzY4NjIsLTE1MD
-k2NTQ5OTksMTkyODMyMjgwMywxMTI2MzI4ODg2LC0xNTczOTk0
-NTkwXX0=
+eyJoaXN0b3J5IjpbLTczMTg2Mjk5NCwyMDcyNjM2ODYyLC0xNT
+A5NjU0OTk5LDE5MjgzMjI4MDMsMTEyNjMyODg4NiwtMTU3Mzk5
+NDU5MF19
 -->
