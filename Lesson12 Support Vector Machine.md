@@ -66,10 +66,12 @@ Using kernels in logistic regression will be very slow.
 **SVM parameters**
 
 $C(=\frac{1}{\lambda})$.
-Large C: lower bias, high variance.
-Small C: higher bias, low variance.
+Large C(small $\lambda$): lower bias, high variance.
+Small C(large $\lambda$): higher bias, low variance.
+$\sigma^2$
+Large $\sigma^2$:
 # Using An SVM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5MTQwMDIzLC0xNTA5NjU0OTk5LDE5Mj
-gzMjI4MDMsMTEyNjMyODg4NiwtMTU3Mzk5NDU5MF19
+eyJoaXN0b3J5IjpbLTgyNTMyNTEzOCwtMTUwOTY1NDk5OSwxOT
+I4MzIyODAzLDExMjYzMjg4ODYsLTE1NzM5OTQ1OTBdfQ==
 -->
