@@ -103,8 +103,9 @@ e.g. $n=1-1000,m=10000$
 If $n$ is small, $m$ is large: create/add features, then use logistic regression or SVM without kernel
 e.g. $n=1-1000,m=50000+$
 
+Neural network likely to work well for most of these
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjkzNjIyMjgsNzc0Mzc3OTM0LDUxNT
+eyJoaXN0b3J5IjpbLTE5MzUxMTUzOTksNzc0Mzc3OTM0LDUxNT
 g4MDkxNiwtOTQ4NjMxMDYxLDIwMjkzNTE5NzcsMjA3MjYzNjg2
 MiwtMTUwOTY1NDk5OSwxOTI4MzIyODAzLDExMjYzMjg4ODYsLT
 E1NzM5OTQ1OTBdfQ==
