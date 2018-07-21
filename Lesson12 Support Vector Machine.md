@@ -41,10 +41,11 @@ $p^{(i)}||\theta||\le-1$ if $y^{(i)}=1$
 If $p^{(i)}$ is very small, that means we need $||\theta||$ to be very large, resulting in a large $J(\theta)$. It's why SVM will choose $\theta$ which makes $p^{(i)}$ be large.
 
 # Kernels I
-given $x$,  $f_i=similarity(x,l^{(i)})=e^{}$
+
+given $x$,  $f_i=similarity(x,l^{(i)})=e^{-\frac{||x-l^{(i)}||^2}{2\sigma^2}}$,where $l^{(i)}=x^{()i}$
 # Kernels II
 
 # Using An SVM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDcwNzkwMCwtMTU3Mzk5NDU5MF19
+eyJoaXN0b3J5IjpbOTM1MTM2ODYzLC0xNTczOTk0NTkwXX0=
 -->
