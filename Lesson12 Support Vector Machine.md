@@ -94,9 +94,10 @@ Many off-the-shelf kernels available:
 - Chi-squre kernel 
 - Histogram intersection kernel
 
-
+If $n$ is large
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1ODgwOTE2LC05NDg2MzEwNjEsMjAyOT
-M1MTk3NywyMDcyNjM2ODYyLC0xNTA5NjU0OTk5LDE5MjgzMjI4
-MDMsMTEyNjMyODg4NiwtMTU3Mzk5NDU5MF19
+eyJoaXN0b3J5IjpbLTE5ODY0NTU2MzAsNTE1ODgwOTE2LC05ND
+g2MzEwNjEsMjAyOTM1MTk3NywyMDcyNjM2ODYyLC0xNTA5NjU0
+OTk5LDE5MjgzMjI4MDMsMTEyNjMyODg4NiwtMTU3Mzk5NDU5MF
+19
 -->
