@@ -61,9 +61,10 @@ $J(\theta)=C\sum\limits_{i=1}^m[y^{(i)}cost_1(\theta^Tf^{(i)})+(1-y)cost_0(\thet
 Regularization item: $\frac{1}{2}\sum\limits_{j=1}^n\theta_j^2=\frac{1}{2}\theta^T\theta$
 Sometimes we may replace it with $\frac{1}{2}\theta^TM\theta$ for computational efficiency.
 
+Using kernels in logistic regression will be very slow.
 
 # Using An SVM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjE5MTc1NjQsLTE1MDk2NTQ5OTksMT
+eyJoaXN0b3J5IjpbLTE0MzE2ODQ3ODAsLTE1MDk2NTQ5OTksMT
 kyODMyMjgwMywxMTI2MzI4ODg2LC0xNTczOTk0NTkwXX0=
 -->
