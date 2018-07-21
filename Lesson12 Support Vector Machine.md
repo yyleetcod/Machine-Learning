@@ -80,10 +80,10 @@ Need to specify:
 - Choice of kernel(similarity function):
 E.g. 
 **No kernel("linear kernel")**:Predict "$y=1$" if $\theta^Tx\ge0$
-**Gaussian kerne**l:$f_i=similarity(x,l^{(i)})=k(x,l^{(i)})=e^{-\frac{||x-l^{(i)}||^2}{2\sigma^2}}$
-where $l^{(i)}=x^{(i)},||x-l^{(i)}||^2=\sum\limits_{j=1}^n(x_j-l_j^{(i)})^2,i=1,2,...,m$
+**Gaussian kernel**:$f_i=e^{-\frac{||x-l^{(i)}||^2}{2\sigma^2}}$
+where $l^{(i)}=x^{(i)}$, need to choose $\sigma^2$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDc1NjI5MjgsMjA3MjYzNjg2MiwtMT
+eyJoaXN0b3J5IjpbLTE1NTAwMDQ5NTksMjA3MjYzNjg2MiwtMT
 UwOTY1NDk5OSwxOTI4MzIyODAzLDExMjYzMjg4ODYsLTE1NzM5
 OTQ1OTBdfQ==
 -->
