@@ -24,7 +24,7 @@ $J(\theta)=C\sum\limits_{i=1}^m[y^{(i)}cost_1(\theta^Tx^{(i)})+(1-y)cost_0(\thet
 $\min \frac{1}{2}\sum\limits_{i=1}^{n}\theta_i^2$
 s.t.
 $\theta^Tx^{(i)}\ge1$ if $y^{(i)}=1$
-     $\theta^Tx^{(i)}\ge1$ if $y^{(i)}=1$
+     $\theta^Tx^{(i)}\le-1$ if $y^{(i)}=0$
 When we use SVM as a large margin classifier(set C too large), it can be sensitive to outliers. 
 
 # The mathematics Behind Large Margin Classification
@@ -32,12 +32,12 @@ When we use SVM as a large margin classifier(set C too large), it can be sensiti
 $\min \frac{1}{2}\sum\limits_{i=1}^{n}\theta_i^2=\frac{1}{2}||\theta||^2$(ignore $\theta_0$)
 s.t.
 $\theta^Tx^{(i)}\ge1$ if $y^{(i)}=1$
-     $\theta^Tx^{(i)}\ge1$ if $y^{(i)}=1$
+     $\theta^Tx^{(i)}\le-1$ if $y^{(i)}=0$
 
 $\min \frac{1}{2}||\theta||^2$(ignore $\theta_0$)
 s.t.
 $p^{(i)}||\theta||\ge1$ if $y^{(i)}=1$
-$p^{(i)}||\theta||\le-1$ if $y^{(i)}=1$
+$p^{(i)}||\theta||\le-1$ if $y^{(i)}=0$
 If $p^{(i)}$ is very small, that means we need $||\theta||$ to be very large, resulting in a large $J(\theta)$. It's why SVM will choose $\theta$ which makes $p^{(i)}$ be large.
 
 # Kernels I
@@ -105,8 +105,8 @@ e.g. $n=1-1000,m=50000+$
 
 Neural network likely to work well for most of these settings, but may be slower to train.(also may meet local optimal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTIzMjA4Nyw3NzQzNzc5MzQsNTE1OD
-gwOTE2LC05NDg2MzEwNjEsMjAyOTM1MTk3NywyMDcyNjM2ODYy
-LC0xNTA5NjU0OTk5LDE5MjgzMjI4MDMsMTEyNjMyODg4NiwtMT
-U3Mzk5NDU5MF19
+eyJoaXN0b3J5IjpbLTU5ODE4ODg1MiwyMDg1MjMyMDg3LDc3ND
+M3NzkzNCw1MTU4ODA5MTYsLTk0ODYzMTA2MSwyMDI5MzUxOTc3
+LDIwNzI2MzY4NjIsLTE1MDk2NTQ5OTksMTkyODMyMjgwMywxMT
+I2MzI4ODg2LC0xNTczOTk0NTkwXX0=
 -->
