@@ -3,7 +3,8 @@
 **Logistic regression model:**
 
 $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$
-**Interpretation of hypothesis output:** $h_\theta=$ estimated probability that y = 1 on input x. In other word, $h_\theta=P(y=1|x;\theta)$.
+**Interpretation of hypothesis output:** 
+$h_\theta=$ estimated probability that y = 1 on input x. $h_\theta=P(y=1|x;\theta)$.
 $P(y=0|x;\theta)=1-P(y=1|x;\theta)$
 
 # Decision Boundary
@@ -90,8 +91,8 @@ Train a logistic regression classifier $h_\theta^{(i)}$ for each class $i$ to pr
  $h_\theta^{(i)}=P(y=i|x;\theta)$ 
 On a new input $x$, to make a prediction, pick the class $i$ that maximizes $\max \limits_ih_\theta^{(i)}(x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA3OTk0NDEsODE0ODcxMjU0LC02OD
-U3OTk4OTMsLTEwMjU4MTk3OTYsLTE4MTI4MTUzOTMsLTU3OTEz
-ODA5NiwxODU3MTYyMDcsLTIwNjQ5NzMwNTAsLTEzNjcwMjY1Nz
-YsLTEyMjEzMjc1MjEsOTQwMjI2Nl19
+eyJoaXN0b3J5IjpbMjU2NzUxNzQ0LC0xODAwNzk5NDQxLDgxND
+g3MTI1NCwtNjg1Nzk5ODkzLC0xMDI1ODE5Nzk2LC0xODEyODE1
+MzkzLC01NzkxMzgwOTYsMTg1NzE2MjA3LC0yMDY0OTczMDUwLC
+0xMzY3MDI2NTc2LC0xMjIxMzI3NTIxLDk0MDIyNjZdfQ==
 -->
