@@ -18,6 +18,8 @@ Need code to compute
 **Back propagation algorithm**
 $\delta_j^{(l)}=$ "error" of node $j$ in layer $l$
 In fact, $\delta_j^{(l)}=\frac{\partial}{\partial z_j^{(l)}}cost^{(i)}$
+Then, $\frac{\partial}{\partial\Theta_{ij}^{(l)}}J(\Theta)=a_j^{(l)}\delta_i^{(l+1)}$
+
 $cost^{(i)}=-y^{(i)}log(h_\theta(x^{(i)}))-(1-y^{(i)})log(1-h_\theta(x^{(i)}))$
 
 For each output unit(layer L = 4)
@@ -90,8 +92,8 @@ for i = 1:m,
    ```
    Ideally, you want $h_\Theta(x^{(i)}) \approx y^{(i)}$. This will minimize our cost function. However, keep in mind that $J(\Theta)$ is not convex and thus we can end up in a local minimum instead.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDY4ODYzLC01NTYzMDczMTksLTE2Nj
-gwNDQ2MTQsMjA0ODc2MjI2NywtMTA5OTgzMDg3NywtMTA4MDkz
-NzgyMiwtMTgwODc4MTAwLC05NTk1MzcwODIsLTEyNDgxMDk3Mz
-csNjk5MzI5NDI4LDE4NjA5Mzc0ODldfQ==
+eyJoaXN0b3J5IjpbODE4NDY3MzI3LDE0OTA2ODg2MywtNTU2Mz
+A3MzE5LC0xNjY4MDQ0NjE0LDIwNDg3NjIyNjcsLTEwOTk4MzA4
+NzcsLTEwODA5Mzc4MjIsLTE4MDg3ODEwMCwtOTU5NTM3MDgyLC
+0xMjQ4MTA5NzM3LDY5OTMyOTQyOCwxODYwOTM3NDg5XX0=
 -->
