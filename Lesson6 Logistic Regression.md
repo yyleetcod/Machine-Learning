@@ -32,7 +32,10 @@ we can prove that $J(\theta)$ is a convex function, which has only one global op
 
 # Simplified Cost Function and Gradient Descent
 $cost(h_\theta(x),y)=-ylog(h_\theta(x))-(1-y)log(1-h_\theta(x))$
-**Cost
+
+**Hypothesis**
+$h_\theta=\frac{1}{1+e^{-\theta^Tx}}$
+**Cost function**
 $$
 J(\theta)=\frac{1}{m}\sum\limits_{i=1}^mcost(h_\theta(x^{(i)}),y^{(i)})=-\frac{1}{m}\sum\limits_{i=1}^mylog(h_\theta(x))+(1-y)log(1-h_\theta(x))$$(Max likehood estimation)
 
@@ -92,9 +95,9 @@ Train a logistic regression classifier $h_\theta^{(i)}$ for each class $i$ to pr
  $h_\theta^{(i)}=P(y=i|x;\theta)$ 
 On a new input $x$, to make a prediction, pick the class $i$ that maximizes $\max \limits_ih_\theta^{(i)}(x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjkyNTQ5Miw3MjQwNzAzODksLTE4MD
-A3OTk0NDEsODE0ODcxMjU0LC02ODU3OTk4OTMsLTEwMjU4MTk3
-OTYsLTE4MTI4MTUzOTMsLTU3OTEzODA5NiwxODU3MTYyMDcsLT
-IwNjQ5NzMwNTAsLTEzNjcwMjY1NzYsLTEyMjEzMjc1MjEsOTQw
-MjI2Nl19
+eyJoaXN0b3J5IjpbMTExMjM2NDczLDcyNDA3MDM4OSwtMTgwMD
+c5OTQ0MSw4MTQ4NzEyNTQsLTY4NTc5OTg5MywtMTAyNTgxOTc5
+NiwtMTgxMjgxNTM5MywtNTc5MTM4MDk2LDE4NTcxNjIwNywtMj
+A2NDk3MzA1MCwtMTM2NzAyNjU3NiwtMTIyMTMyNzUyMSw5NDAy
+MjY2XX0=
 -->
