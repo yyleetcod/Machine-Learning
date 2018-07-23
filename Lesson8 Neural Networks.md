@@ -17,8 +17,9 @@ $a^{(j+1)}=g(z^{(j+1)})\in\Re^{n}$
 add $a^{(j+1)}_0=1\in\Re^{n+1}$
 In this **last step**, between layer j and layer j+1, we are doing **exactly the same thing** as we did in logistic regression. Adding all these intermediate layers in neural networks allows us to more elegantly produce interesting and more complex non-linear hypotheses.
 
-$z=\theta_0+\theta_0+$
+$z=\theta_0+\theta_1x_1+\theta_2x_2+\theta_3x_3=\theta^Tx$
+$a=h_\theta(z)=\frac{1}{1+e^{-z}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzMzOTY3MSwxNDA3ODE0NjEwLC01Nz
+eyJoaXN0b3J5IjpbLTY1MDcyMDgxMCwxNDA3ODE0NjEwLC01Nz
 Q4NTEzMzMsOTg3MTkzODY5XX0=
 -->
