@@ -5,7 +5,7 @@ Save time and space.
 
 # MotivationII: Visualization
 
-
+![enter image description here](https://lh3.googleusercontent.com/9LYrJT1R87Cor2zsNXNbTC_q8SCTGTtDnbWhhUVHo4vp5tff_wMPva-udECInuWM9Bv8rWA96n8v)
 
 # Principle Component Analysis Problem Formulation
 
@@ -19,6 +19,6 @@ Save time and space.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDUwNTQ4MywtNjU0NzQ4OTc1LC01Nj
+eyJoaXN0b3J5IjpbMTgwNjc0MDQxOCwtNjU0NzQ4OTc1LC01Nj
 kwNTgwNTFdfQ==
 -->
