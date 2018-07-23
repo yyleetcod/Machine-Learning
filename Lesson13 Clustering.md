@@ -5,6 +5,7 @@
 # Optimization Objective
 
 ![enter image description here](https://lh3.googleusercontent.com/K2KxaDHs78a-R59EjP9mWN-6K4gwLWN-rUDgVkbA3gV2afBJEd1vd3GWv6ortrqKzn2wyGBY7sA)
+![enter image description here](https://lh3.googleusercontent.com/N2O2cDpxlIqHfFyZWDLFnQ04-72iX6LFyhOQTF6V4goVcMRLSUT9aXwcOLt0FeaBoxoM6Glieds)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzIwOTU0Ml19
+eyJoaXN0b3J5IjpbLTE0ODE3NjEyNDEsMjEyMzIwOTU0Ml19
 -->
