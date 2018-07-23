@@ -10,8 +10,10 @@
 # Random Initialization
 ![enter image description here](https://lh3.googleusercontent.com/qlI3FnNjNM2Tm-Te6iwF6v6l2ZxToOzQDFL2nNnJ234a1uZtEYSf7LNPBRJX9Qqigl3xMqfz4f0)
 ![enter image description here](https://lh3.googleusercontent.com/0TgPlCArgBU7I7UxPt2CoW-CxCwFFNZXYtKjdcEiBRMYyMdfz4IPPaYYdE8nXWVOZrHOZEAW4UE)
+![enter image description here](https://lh3.googleusercontent.com/TB4Apw3OVuUitOzL5GU6NVu6ju5zdJLMdJjxTNu0GZrsDKhynTKywxp9c-fWQlMG6iJP-un83Jo)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjIxMzM2MTMsLTQ2Mzg3Njk5MywyMT
-IzMjA5NTQyXX0=
+eyJoaXN0b3J5IjpbLTk4NzYwNCwtNDYzODc2OTkzLDIxMjMyMD
+k1NDJdfQ==
 -->
