@@ -13,7 +13,6 @@ The **decision boundary** is the line that separates the area where $y = 0$ and 
 Suppose predict 
 - "$y = 1$" when $h_\theta\ge0.5$, $h_\theta\ge0.5$ when and only when $\theta^Tx\ge0$.
 - "$y = 0$" when $h_\theta<0.5$, $h_\theta<0.5$ when and only when $\theta^Tx<0$.
--
 
 Decision boundary is decided by $\theta$.
 Again, the input to the sigmoid function g(z) (e.g.  $\theta^TX$) doesn't need to be linear, and could be a function that describes a circle (e.g.  $z=\theta_0+\theta_1x_1^2+\theta_2x_2^2$) or any shape to fit our data.
@@ -92,8 +91,8 @@ Train a logistic regression classifier $h_\theta^{(i)}$ for each class $i$ to pr
  $h_\theta^{(i)}=P(y=i|x;\theta)$ 
 On a new input $x$, to make a prediction, pick the class $i$ that maximizes $\max \limits_ih_\theta^{(i)}(x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjMzMDIyMiwtMTgwMDc5OTQ0MSw4MT
-Q4NzEyNTQsLTY4NTc5OTg5MywtMTAyNTgxOTc5NiwtMTgxMjgx
-NTM5MywtNTc5MTM4MDk2LDE4NTcxNjIwNywtMjA2NDk3MzA1MC
-wtMTM2NzAyNjU3NiwtMTIyMTMyNzUyMSw5NDAyMjY2XX0=
+eyJoaXN0b3J5IjpbNzI0MDcwMzg5LC0xODAwNzk5NDQxLDgxND
+g3MTI1NCwtNjg1Nzk5ODkzLC0xMDI1ODE5Nzk2LC0xODEyODE1
+MzkzLC01NzkxMzgwOTYsMTg1NzE2MjA3LC0yMDY0OTczMDUwLC
+0xMzY3MDI2NTc2LC0xMjIxMzI3NTIxLDk0MDIyNjZdfQ==
 -->
