@@ -32,12 +32,17 @@ Small threshold results in higher recall and lower precision.(avoid false negati
 
 $P(precision)=\frac{\text{True positive}}{\text{True positive+False positive}}$
 $R(recall)=\frac{\text{True positive}}{\text{True positive+False negative}}$
+
 $F_1 Score = \frac{2PR}{P+R}$
+$Accuracy=\frac{\text{True positive+True negative}}{\text{Total number}}$
+
+$$
+
 # Data For Machine Learning
 ![enter image description here](https://lh3.googleusercontent.com/81gHxZATB2QSnyg06OGa0_KzP578VArYgVPLMXYHeJhaGFxioIOVdQEm2c_bEfbggUXI3NC7XRI)
 ![enter image description here](https://lh3.googleusercontent.com/tXsCKrgJQobjPJzBl0wib9B5bQ1jbK2vO5bu3bTc0UDZyEBmlqspLA1xhnVzYkIGBHWmmoAwmD4)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzIwOTIyMSwxNDYxNjc5MDIwLC0yNj
-g1OTQwNTMsLTEzNTc0NTE2NzEsMjYwMTU4MjAzLDQ2NDU2NDM5
-NywtMTUyODczMzM3MV19
+eyJoaXN0b3J5IjpbMjAzNzMyNzg0NSwxNDA3MjA5MjIxLDE0Nj
+E2NzkwMjAsLTI2ODU5NDA1MywtMTM1NzQ1MTY3MSwyNjAxNTgy
+MDMsNDY0NTY0Mzk3LC0xNTI4NzMzMzcxXX0=
 -->
