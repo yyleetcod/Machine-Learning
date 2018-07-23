@@ -31,6 +31,8 @@ $\delta_j^{(2)}=(\Theta^{(2)})^T\delta^{(3)}.*g'(z^{(2)})=(\Theta^{(2)})^T\delta
 Then, $\frac{\partial}{\partial\Theta_{ij}^{(l)}}J(\Theta)=a_j^{(l)}\delta_i^{(l+1)}$
 ![enter image description here](https://lh3.googleusercontent.com/HPIWWws2FQmhvh7-pKg9TR4j6--o-EC6LCZ3I6ZEDmx6_OJtd-QxrAdDEYncCCMNIg9q78zlm3A)
 
+
+**Back propagation algorithm**
 Training set $\{(x^{(1)},y^{(1)}),...,(x^{(m)},y^{(m)})\}$
 Set $\Delta_{ij}^{(l)}=0$(for all $l,i,j$)(use to compute $\frac{\partial}{\partial\Theta_{ij}^{(l)}}J(\Theta)$)
 For $i=1$ to $m$
@@ -92,7 +94,7 @@ for i = 1:m,
    ```
    Ideally, you want $h_\Theta(x^{(i)}) \approx y^{(i)}$. This will minimize our cost function. However, keep in mind that $J(\Theta)$ is not convex and thus we can end up in a local minimum instead.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4NDY3MzI3LDE0OTA2ODg2MywtNTU2Mz
+eyJoaXN0b3J5IjpbODgxMDgxOTQ1LDE0OTA2ODg2MywtNTU2Mz
 A3MzE5LC0xNjY4MDQ0NjE0LDIwNDg3NjIyNjcsLTEwOTk4MzA4
 NzcsLTEwODA5Mzc4MjIsLTE4MDg3ODEwMCwtOTU5NTM3MDgyLC
 0xMjQ4MTA5NzM3LDY5OTMyOTQyOCwxODYwOTM3NDg5XX0=
