@@ -15,8 +15,8 @@
 # Choosing the Number of Clusters
 ![enter image description here](https://lh3.googleusercontent.com/061nOznLH4vDRUyEm-peS47D0VrQGLlwmQps3mpjXZU0rzOWAgAEackmBRhjwYP7RFy80xb40ao)
 Often we should choose $K$ by hand.
-
+![enter image description here](https://lh3.googleusercontent.com/c4BcU4ap5kLJlMdMWpSiEaUxgS5sxF9toSAzux9CCX1zPkn01YmXSuPgGyYhqT-H0E5U8UuWgJVe)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjYyMDA0NzcsLTcwNzg0OTA3LC00OD
-g5MjQzMDcsLTQ2Mzg3Njk5MywyMTIzMjA5NTQyXX0=
+eyJoaXN0b3J5IjpbLTc2ODkxODEyOCwtNzA3ODQ5MDcsLTQ4OD
+kyNDMwNywtNDYzODc2OTkzLDIxMjMyMDk1NDJdfQ==
 -->
