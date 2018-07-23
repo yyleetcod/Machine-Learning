@@ -12,8 +12,9 @@
 ![enter image description here](https://lh3.googleusercontent.com/0TgPlCArgBU7I7UxPt2CoW-CxCwFFNZXYtKjdcEiBRMYyMdfz4IPPaYYdE8nXWVOZrHOZEAW4UE)
 ![enter image description here](https://lh3.googleusercontent.com/TB4Apw3OVuUitOzL5GU6NVu6ju5zdJLMdJjxTNu0GZrsDKhynTKywxp9c-fWQlMG6iJP-un83Jo)
 
+# Choosing the Number of Clusters
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzYwNCwtNDYzODc2OTkzLDIxMjMyMD
-k1NDJdfQ==
+eyJoaXN0b3J5IjpbLTQ4ODkyNDMwNywtNDYzODc2OTkzLDIxMj
+MyMDk1NDJdfQ==
 -->
