@@ -29,14 +29,15 @@ Predict $y=1$ if $h_\theta>$threshold
 Large threshold results in higher precision and lower recall.(avoid false positive)
 Small threshold results in higher recall and lower precision.(avoid false negative)
 ![enter image description here](https://lh3.googleusercontent.com/eAKxSQ5ZzzkFgs_yIIjOgd5h7ZyVCE0s_0-8WvnQVxogFuNhklI5jPlD6D5cOOXVJ9oa6PWZSQA)
-$P(precision)=\frac{\text{True positive}}{\text{True positive+False positive}$
-$R(recall)=\frac{\text{True positive}}{\text{True positive+False negative}$
+
+$P(precision)=\frac{\text{True positive}}{\text{True positive+False positive}}$
+$R(recall)=\frac{\text{True positive}}{\text{True positive+False negative}}$
 $F_1 Score = \frac{2PR}{P+R}$
 # Data For Machine Learning
 ![enter image description here](https://lh3.googleusercontent.com/81gHxZATB2QSnyg06OGa0_KzP578VArYgVPLMXYHeJhaGFxioIOVdQEm2c_bEfbggUXI3NC7XRI)
 ![enter image description here](https://lh3.googleusercontent.com/tXsCKrgJQobjPJzBl0wib9B5bQ1jbK2vO5bu3bTc0UDZyEBmlqspLA1xhnVzYkIGBHWmmoAwmD4)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Mzc4OTcxOSwxNDYxNjc5MDIwLC0yNj
+eyJoaXN0b3J5IjpbMTQwNzIwOTIyMSwxNDYxNjc5MDIwLC0yNj
 g1OTQwNTMsLTEzNTc0NTE2NzEsMjYwMTU4MjAzLDQ2NDU2NDM5
 NywtMTUyODczMzM3MV19
 -->
