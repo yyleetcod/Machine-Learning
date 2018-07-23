@@ -9,16 +9,25 @@ Save time and space.
 
 # Principle Component Analysis Problem Formulation
 
+
+
 # Principle Component Analysis Algorithm
+
+
 
 # Reconstruction from Compressed Representation
 
+
+
 # Choosing the Number of Principle Components
+
+
 
 # Advice for Applying PCA
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjc0MDQxOCwtNjU0NzQ4OTc1LC01Nj
-kwNTgwNTFdfQ==
+eyJoaXN0b3J5IjpbNzc4NTIxMjcyLC02NTQ3NDg5NzUsLTU2OT
+A1ODA1MV19
 -->
