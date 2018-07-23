@@ -5,6 +5,8 @@ Save time and space.
 
 # MotivationII: Visualization
 
+
+
 # Principle Component Analysis Problem Formulation
 
 # Principle Component Analysis Algorithm
@@ -17,5 +19,6 @@ Save time and space.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDc0ODk3NSwtNTY5MDU4MDUxXX0=
+eyJoaXN0b3J5IjpbLTQwNDUwNTQ4MywtNjU0NzQ4OTc1LC01Nj
+kwNTgwNTFdfQ==
 -->
