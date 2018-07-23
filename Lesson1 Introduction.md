@@ -12,9 +12,7 @@
 
 >P = the probability that the program will win the next game.
 
-- In general, any machine learning problem can be assigned to one of two broad classifications:
-
->Supervised learning and Unsupervised learning.
+- In general, any machine learning problem can be assigned to one of two broad classifications: Supervised learning and Unsupervised learning.
 
 # Unsupervised Learning
 
@@ -26,6 +24,6 @@ $[W,s,v]=svd((repmat(sum(x.*x,1),size(x,1),1).*x)*x');$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTEwMzQzNzEsMTMwNDk1ODA5NCwxMz
-U1MDIxODg3XX0=
+eyJoaXN0b3J5IjpbLTExMDY5MDY2MjEsLTE1OTEwMzQzNzEsMT
+MwNDk1ODA5NCwxMzU1MDIxODg3XX0=
 -->
