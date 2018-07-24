@@ -27,7 +27,8 @@ How we minimize the squared projection error:
 # Reconstruction from Compressed Representation
 
 The average squared projection error divided by the total variation that was at most 1%.
-$X$
+$x = Ureduce * k$
+$k = Ureduce^T * x$
 
 # Choosing the Number of Principle Components
 
@@ -38,7 +39,7 @@ $X$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODUyOTM2OSwxMzA5NTU4Mjc3LDE1Nz
-k0OTA2MzAsLTEwODA4OTAyNzIsNzc4NTIxMjcyLC02NTQ3NDg5
-NzUsLTU2OTA1ODA1MV19
+eyJoaXN0b3J5IjpbNTk3Njc4ODkzLDEzMDk1NTgyNzcsMTU3OT
+Q5MDYzMCwtMTA4MDg5MDI3Miw3Nzg1MjEyNzIsLTY1NDc0ODk3
+NSwtNTY5MDU4MDUxXX0=
 -->
