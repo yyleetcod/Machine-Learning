@@ -9,6 +9,7 @@ Save time and space.
 
 # Principle Component Analysis Problem Formulation
 
+![enter image description here](https://lh3.googleusercontent.com/YmmManDvFGLCivdCuXKcBOGpPrIU49dtIgGK9RXZgqFgk_0zjv0T99eHx0uRj1xCI74cPrYf6Ese)
 
 
 # Principle Component Analysis Algorithm
@@ -28,6 +29,6 @@ Save time and space.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4NTIxMjcyLC02NTQ3NDg5NzUsLTU2OT
-A1ODA1MV19
+eyJoaXN0b3J5IjpbMTU4NTU4Njc0NCw3Nzg1MjEyNzIsLTY1ND
+c0ODk3NSwtNTY5MDU4MDUxXX0=
 -->
