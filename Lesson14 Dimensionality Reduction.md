@@ -44,11 +44,11 @@ $k = Ureduce^T * x$
 ![enter image description here](https://lh3.googleusercontent.com/n05PO1FdczI38y7SrsbOiI3d3ZYEykqm8yGIGQgqfSxTyd83cy9vH_saaMQPr27uKgIVwfooE9Tq)
 **Do not use PCA to prevent overfitting, because it never uses the information of $y$.
 Use regularization to prevent overfitting.**
-
+![enter image description here](https://lh3.googleusercontent.com/Et4ftXsbmTXXAxBU-YCn02y5OeYg4W_C54aicIQNOfQj4klisDoLTfSJWF9UpZRFBP6rLu6japWe)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDQ5NTUyNSw5Mjg5ODQ1MDMsLTE4Mj
-M1Njc2OTgsLTIwMTM0NTg2MDYsLTE4MzA2NDQyOCwxMzA5NTU4
-Mjc3LDE1Nzk0OTA2MzAsLTEwODA4OTAyNzIsNzc4NTIxMjcyLC
-02NTQ3NDg5NzUsLTU2OTA1ODA1MV19
+eyJoaXN0b3J5IjpbMzY3MzQyNTIsOTI4OTg0NTAzLC0xODIzNT
+Y3Njk4LC0yMDEzNDU4NjA2LC0xODMwNjQ0MjgsMTMwOTU1ODI3
+NywxNTc5NDkwNjMwLC0xMDgwODkwMjcyLDc3ODUyMTI3MiwtNj
+U0NzQ4OTc1LC01NjkwNTgwNTFdfQ==
 -->
