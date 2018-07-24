@@ -29,7 +29,7 @@ How we minimize the squared projection error:
 The word that "99% of the variation is retained" means that "the average squared projection error divided by the total variation that was at most 1%".
 $x_{approx} = Ureduce * k\approx x$
 $k = Ureduce^T * x$
-![enter image description here](https://lh3.googleusercontent.com/xBvEc8sGUR-olUMkC5stQVP8POnQa-HsoDZ8fzJsnzZJerxQnbfLM_AD8tmdEjKYHDELAx1gRbQH)
+enter image description here
 
 # Choosing the Number of Principle Components
 
@@ -37,10 +37,8 @@ $k = Ureduce^T * x$
 
 # Advice for Applying PCA
 
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA2NDQyOCwxMzA5NTU4Mjc3LDE1Nz
-k0OTA2MzAsLTEwODA4OTAyNzIsNzc4NTIxMjcyLC02NTQ3NDg5
-NzUsLTU2OTA1ODA1MV19
+eyJoaXN0b3J5IjpbMTM2NDkxMTY2OCwtMTgzMDY0NDI4LDEzMD
+k1NTgyNzcsMTU3OTQ5MDYzMCwtMTA4MDg5MDI3Miw3Nzg1MjEy
+NzIsLTY1NDc0ODk3NSwtNTY5MDU4MDUxXX0=
 -->
