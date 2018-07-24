@@ -45,9 +45,10 @@ $k = Ureduce^T * x$
 **Do not use PCA to prevent overfitting, because it never uses the information of $y$.
 Use regularization to prevent overfitting.**
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4OTg0NTAzLC0xODIzNTY3Njk4LC0yMD
-EzNDU4NjA2LC0xODMwNjQ0MjgsMTMwOTU1ODI3NywxNTc5NDkw
-NjMwLC0xMDgwODkwMjcyLDc3ODUyMTI3MiwtNjU0NzQ4OTc1LC
-01NjkwNTgwNTFdfQ==
+eyJoaXN0b3J5IjpbMTQzNDQ5NTUyNSw5Mjg5ODQ1MDMsLTE4Mj
+M1Njc2OTgsLTIwMTM0NTg2MDYsLTE4MzA2NDQyOCwxMzA5NTU4
+Mjc3LDE1Nzk0OTA2MzAsLTEwODA4OTAyNzIsNzc4NTIxMjcyLC
+02NTQ3NDg5NzUsLTU2OTA1ODA1MV19
 -->
