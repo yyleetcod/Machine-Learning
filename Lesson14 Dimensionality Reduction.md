@@ -12,6 +12,8 @@ Save time and space.
 ![enter image description here](https://lh3.googleusercontent.com/YmmManDvFGLCivdCuXKcBOGpPrIU49dtIgGK9RXZgqFgk_0zjv0T99eHx0uRj1xCI74cPrYf6Ese)
 ![enter image description here](https://lh3.googleusercontent.com/6iE65XVSMRm_0r2GnOZen5Wy2OE98idgwu_dY8YIqUEy5wduJ0n_HtMQIl5ewU1L-LH3YvSoeft9)
 ![enter image description here](https://lh3.googleusercontent.com/nLTL232bb0Ae3kiEjLh75-sGlAUvebUFzPRgnAkF_ovV6sbQBFsElDB51GJH2d2uQKvkLdmwBOti)
+![enter image description here](https://lh3.googleusercontent.com/Ma2yYnF_22EZHsTDX0x8jUGbU9YuYB2dRbe7rvTKohSBPo2EpV5YTqIXwkzBNu0QSNZdtMJpqN0e)
+None of the variables is special.
 
 # Principle Component Analysis Algorithm
 
@@ -30,6 +32,6 @@ Save time and space.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDMwMzI0Myw3Nzg1MjEyNzIsLTY1ND
-c0ODk3NSwtNTY5MDU4MDUxXX0=
+eyJoaXN0b3J5IjpbLTEwODA4OTAyNzIsNzc4NTIxMjcyLC02NT
+Q3NDg5NzUsLTU2OTA1ODA1MV19
 -->
