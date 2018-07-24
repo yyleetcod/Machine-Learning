@@ -17,6 +17,8 @@ None of the variables is special.
 
 # Principle Component Analysis Algorithm
 
+![enter image description here](https://lh3.googleusercontent.com/KL3jZNIBAGUKqf8PpZTZmPEJ4B2184pmHvC8cPPjiGut0KEJDuFB1qCfGHCASL1CK2WoT8rfeCbu)
+![enter image description here](https://lh3.googleusercontent.com/-v_gFRMB3vaHYWrYu91NsadHvVHq_0Kj8-oO20VqSQ-KdgpeTjAFPaagctZOAZn3Ng3gexLVyuDS)
 
 
 # Reconstruction from Compressed Representation
@@ -32,6 +34,6 @@ None of the variables is special.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODA4OTAyNzIsNzc4NTIxMjcyLC02NT
-Q3NDg5NzUsLTU2OTA1ODA1MV19
+eyJoaXN0b3J5IjpbNzIwOTUwNzE1LC0xMDgwODkwMjcyLDc3OD
+UyMTI3MiwtNjU0NzQ4OTc1LC01NjkwNTgwNTFdfQ==
 -->
