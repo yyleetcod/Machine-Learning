@@ -41,12 +41,13 @@ $k = Ureduce^T * x$
 
 ![enter image description here](https://lh3.googleusercontent.com/GeAAjsa9oBQkM4b69dwffG7GJTf5f7UcpiPrbP9Eu2kzmPCh9L-LLHYNlY1JvhFY6vnM56Nkft9W)
 ![enter image description here](https://lh3.googleusercontent.com/FwNZmUxH1ogHtQGwukxGpLNeynTrFd0atxu0vsMX_Ezo7YMxby-iu_a5aTpYZ-C0pm_p6__RcA0a)
-Do not use PCA to prevent overfitting, because it never uses the information of $y$.
-Use regularization to prevent overfitting.
+![enter image description here](https://lh3.googleusercontent.com/n05PO1FdczI38y7SrsbOiI3d3ZYEykqm8yGIGQgqfSxTyd83cy9vH_saaMQPr27uKgIVwfooE9Tq)
+**Do not use PCA to prevent overfitting, because it never uses the information of $y$.
+Use regularization to prevent overfitting.**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDcyMjAzMzIsLTE4MjM1Njc2OTgsLT
-IwMTM0NTg2MDYsLTE4MzA2NDQyOCwxMzA5NTU4Mjc3LDE1Nzk0
-OTA2MzAsLTEwODA4OTAyNzIsNzc4NTIxMjcyLC02NTQ3NDg5Nz
-UsLTU2OTA1ODA1MV19
+eyJoaXN0b3J5IjpbOTI4OTg0NTAzLC0xODIzNTY3Njk4LC0yMD
+EzNDU4NjA2LC0xODMwNjQ0MjgsMTMwOTU1ODI3NywxNTc5NDkw
+NjMwLC0xMDgwODkwMjcyLDc3ODUyMTI3MiwtNjU0NzQ4OTc1LC
+01NjkwNTgwNTFdfQ==
 -->
