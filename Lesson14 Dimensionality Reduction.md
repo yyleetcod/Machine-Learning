@@ -17,9 +17,11 @@ None of the variables is special.
 
 # Principle Component Analysis Algorithm
 
+![enter image description here](https://lh3.googleusercontent.com/MqCRSVzbxapyBkeO0G3IjIzNlS7bTDrYBNHhHKlUSVtfVy8GoHv2CvMV3rJd-f3egcq1Cny9-mig)
 ![enter image description here](https://lh3.googleusercontent.com/KL3jZNIBAGUKqf8PpZTZmPEJ4B2184pmHvC8cPPjiGut0KEJDuFB1qCfGHCASL1CK2WoT8rfeCbu)
 ![enter image description here](https://lh3.googleusercontent.com/-v_gFRMB3vaHYWrYu91NsadHvVHq_0Kj8-oO20VqSQ-KdgpeTjAFPaagctZOAZn3Ng3gexLVyuDS)
-
+![enter image description here](https://lh3.googleusercontent.com/wTr5oq8XRMTxo_4ayHgn4FiVl-Um5zSzSn5oc02TsNiorl67BOqRKtpdzyYbtsg8SjMKLOOngWhd)
+![enter image description here](https://lh3.googleusercontent.com/nuJFGs-01FZf7CKgOgJ8LOSsZ0POizBaE5zcfEfznyhLPwk_FQ5DszWYczC1YPXnDXGkDIpeKzpQ)
 
 # Reconstruction from Compressed Representation
 
@@ -34,6 +36,6 @@ None of the variables is special.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwOTUwNzE1LC0xMDgwODkwMjcyLDc3OD
-UyMTI3MiwtNjU0NzQ4OTc1LC01NjkwNTgwNTFdfQ==
+eyJoaXN0b3J5IjpbMTU3OTQ5MDYzMCwtMTA4MDg5MDI3Miw3Nz
+g1MjEyNzIsLTY1NDc0ODk3NSwtNTY5MDU4MDUxXX0=
 -->
