@@ -29,16 +29,20 @@ How we minimize the squared projection error:
 The word that "99% of the variation is retained" means that "the average squared projection error divided by the total variation that was at most 1%".
 $x_{approx} = Ureduce * k\approx x$
 $k = Ureduce^T * x$
-enter image description here
+![enter image description here](https://lh3.googleusercontent.com/xBvEc8sGUR-olUMkC5stQVP8POnQa-HsoDZ8fzJsnzZJerxQnbfLM_AD8tmdEjKYHDELAx1gRbQH)
 
 # Choosing the Number of Principle Components
 
-
+![enter image description here](https://lh3.googleusercontent.com/FmpCvh0HsDriPE_XrKTsmdgr_MtQfV9K5QWxHeeob3EHHSAir41nFTaAnTg6u1mOVN2H9WewhjoD)
+![enter image description here](https://lh3.googleusercontent.com/8v4B_rFd4rnI7hwmjRL6AyNiJlhaDoLIk_22snZIF5TfowEg-oQMvCiJJuY00nIDoQlFzR5zG6IE)
+![enter image description here](https://lh3.googleusercontent.com/nOslzmRjlamD6XzhqbrKy-iebKXQ3oNXaVsofnrpF2yGF1waocfvLE1Ad0qBSg4O4-jm_ky3rl0b)
 
 # Advice for Applying PCA
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDkxMTY2OCwtMTgzMDY0NDI4LDEzMD
-k1NTgyNzcsMTU3OTQ5MDYzMCwtMTA4MDg5MDI3Miw3Nzg1MjEy
-NzIsLTY1NDc0ODk3NSwtNTY5MDU4MDUxXX0=
+eyJoaXN0b3J5IjpbLTIwMTM0NTg2MDYsLTE4MzA2NDQyOCwxMz
+A5NTU4Mjc3LDE1Nzk0OTA2MzAsLTEwODA4OTAyNzIsNzc4NTIx
+MjcyLC02NTQ3NDg5NzUsLTU2OTA1ODA1MV19
 -->
