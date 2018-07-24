@@ -26,7 +26,7 @@ How we minimize the squared projection error:
 
 # Reconstruction from Compressed Representation
 
-The average squared projection error divided by the total variation that was at most 1%.
+The word that "99% of the variation is retained" means that "the average squared projection error divided by the total variation that was at most 1%".
 $x_{approx} = Ureduce * k\approx x$
 $k = Ureduce^T * x$
 
@@ -39,7 +39,7 @@ $k = Ureduce^T * x$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjM1MzY0NiwxMzA5NTU4Mjc3LDE1Nz
+eyJoaXN0b3J5IjpbLTM4MTQ2MTExNywxMzA5NTU4Mjc3LDE1Nz
 k0OTA2MzAsLTEwODA4OTAyNzIsNzc4NTIxMjcyLC02NTQ3NDg5
 NzUsLTU2OTA1ODA1MV19
 -->
