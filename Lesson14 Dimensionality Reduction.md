@@ -21,12 +21,13 @@ None of the variables is special.
 ![enter image description here](https://lh3.googleusercontent.com/KL3jZNIBAGUKqf8PpZTZmPEJ4B2184pmHvC8cPPjiGut0KEJDuFB1qCfGHCASL1CK2WoT8rfeCbu)
 ![enter image description here](https://lh3.googleusercontent.com/-v_gFRMB3vaHYWrYu91NsadHvVHq_0Kj8-oO20VqSQ-KdgpeTjAFPaagctZOAZn3Ng3gexLVyuDS)
 ![enter image description here](https://lh3.googleusercontent.com/wTr5oq8XRMTxo_4ayHgn4FiVl-Um5zSzSn5oc02TsNiorl67BOqRKtpdzyYbtsg8SjMKLOOngWhd)
-How we minimize the square projection error:
+How we minimize the squared projection error:
 ![enter image description here](https://lh3.googleusercontent.com/nuJFGs-01FZf7CKgOgJ8LOSsZ0POizBaE5zcfEfznyhLPwk_FQ5DszWYczC1YPXnDXGkDIpeKzpQ)
 
 # Reconstruction from Compressed Representation
 
-
+The average squared projection error divided by the total variation that was at most 1%.
+$X$
 
 # Choosing the Number of Principle Components
 
@@ -37,7 +38,7 @@ How we minimize the square projection error:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTU1ODI3NywxNTc5NDkwNjMwLC0xMD
-gwODkwMjcyLDc3ODUyMTI3MiwtNjU0NzQ4OTc1LC01NjkwNTgw
-NTFdfQ==
+eyJoaXN0b3J5IjpbLTI0ODUyOTM2OSwxMzA5NTU4Mjc3LDE1Nz
+k0OTA2MzAsLTEwODA4OTAyNzIsNzc4NTIxMjcyLC02NTQ3NDg5
+NzUsLTU2OTA1ODA1MV19
 -->
