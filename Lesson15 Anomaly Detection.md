@@ -21,7 +21,8 @@
 
 # Anomaly Detection vs. Supervised Learning
 
-
+![enter image description here](https://lh3.googleusercontent.com/YoWs5VoynNOk4Pl7jzXkoPiu5zbRfLHwFmlfDUL4lBJR3zc8fBY8q9A-51BD-OKXI0hToRO9ywKP)
+![enter image description here](https://lh3.googleusercontent.com/o2wnkstFHO8M6yHxJfuErN9yD3rVIlVcvZmn9hjMujf3i7G7HmpkXA6l7oVV8F_deTrmQun7Qnii)
 
 # Choosing What Features to Use
 
@@ -34,7 +35,7 @@
 # Anomaly Detection using the Multivariate Gaussian Distribution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM1MjE5OTMsLTk1ODg2ODYxNiwxMT
-cwNDg5ODg4LDE1NzkzNTg0NDUsMTY1OTQ0NDM1MSwtMTE4MzUw
-MDc0OV19
+eyJoaXN0b3J5IjpbMzc5MTM4MzgzLC0xMzEzNTIxOTkzLC05NT
+g4Njg2MTYsMTE3MDQ4OTg4OCwxNTc5MzU4NDQ1LDE2NTk0NDQz
+NTEsLTExODM1MDA3NDldfQ==
 -->
