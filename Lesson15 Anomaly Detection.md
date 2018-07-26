@@ -26,7 +26,7 @@
 
 # Choosing What Features to Use
 
-
+![enter image description here](https://lh3.googleusercontent.com/dXojwnu1aovyKqDuttaa92r8-mEEvh1Ei4tgGWq_8nvpjrAHPZzflZtMn01Sc2K7xw9fZS87r6Du)
 
 # Multivariate Gaussian Distribution
 
@@ -35,7 +35,7 @@
 # Anomaly Detection using the Multivariate Gaussian Distribution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5MTM4MzgzLC0xMzEzNTIxOTkzLC05NT
-g4Njg2MTYsMTE3MDQ4OTg4OCwxNTc5MzU4NDQ1LDE2NTk0NDQz
-NTEsLTExODM1MDA3NDldfQ==
+eyJoaXN0b3J5IjpbMTU4MzY1NDg3MiwzNzkxMzgzODMsLTEzMT
+M1MjE5OTMsLTk1ODg2ODYxNiwxMTcwNDg5ODg4LDE1NzkzNTg0
+NDUsMTY1OTQ0NDM1MSwtMTE4MzUwMDc0OV19
 -->
