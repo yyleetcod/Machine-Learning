@@ -15,7 +15,8 @@
 
 # Developing and Evaluating an Anomaly Detection System
 
-
+![enter image description here](https://lh3.googleusercontent.com/jtopCRXQB9cnHfK3-Bl_wf5-RaxEC_X7ArZzcj95kCbJFebhI3TWanjZH19K6Z5PeV6QYuRoni_s)
+![enter image description here](https://lh3.googleusercontent.com/2e8GGDrIlWwNli3NEkS_HrG0I6RpuVN11OhfDvBe2dDJC0h2P9VHIHZUNrSwBq80VgruEwWvmGWh)
 
 # Anomaly Detection vs. Supervised Learning
 
@@ -33,6 +34,6 @@
 # Anomaly Detection using the Multivariate Gaussian Distribution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDQ4OTg4OCwxNTc5MzU4NDQ1LDE2NT
-k0NDQzNTEsLTExODM1MDA3NDldfQ==
+eyJoaXN0b3J5IjpbLTk1ODg2ODYxNiwxMTcwNDg5ODg4LDE1Nz
+kzNTg0NDUsMTY1OTQ0NDM1MSwtMTE4MzUwMDc0OV19
 -->
