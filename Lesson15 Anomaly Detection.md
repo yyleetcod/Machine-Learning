@@ -31,11 +31,10 @@
 
 
 
-
 # Anomaly Detection using the Multivariate Gaussian Distribution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTA5MzE1NywtOTU4ODY4NjE2LDExNz
-A0ODk4ODgsMTU3OTM1ODQ0NSwxNjU5NDQ0MzUxLC0xMTgzNTAw
-NzQ5XX0=
+eyJoaXN0b3J5IjpbLTEzMTM1MjE5OTMsLTk1ODg2ODYxNiwxMT
+cwNDg5ODg4LDE1NzkzNTg0NDUsMTY1OTQ0NDM1MSwtMTE4MzUw
+MDc0OV19
 -->
