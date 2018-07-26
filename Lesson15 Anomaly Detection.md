@@ -27,6 +27,8 @@
 # Choosing What Features to Use
 
 ![enter image description here](https://lh3.googleusercontent.com/dXojwnu1aovyKqDuttaa92r8-mEEvh1Ei4tgGWq_8nvpjrAHPZzflZtMn01Sc2K7xw9fZS87r6Du)
+![enter image description here](https://lh3.googleusercontent.com/LIkZ5y1eeqYhwTyKR7k-EjSEVEuuKSa62qfENwB2whzXhpRXeikvPqJi7jn6TjVW0MmeS-a4xi49)
+![enter image description here](https://lh3.googleusercontent.com/b6PLHIUYMEXrOyOnKrQMKgbziKWXAW4cxV5Pr3Sh4enIrv_Cshxb0womIXYUe_oLdpyVyaATpwSS)
 
 # Multivariate Gaussian Distribution
 
@@ -35,7 +37,8 @@
 # Anomaly Detection using the Multivariate Gaussian Distribution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MzY1NDg3MiwzNzkxMzgzODMsLTEzMT
-M1MjE5OTMsLTk1ODg2ODYxNiwxMTcwNDg5ODg4LDE1NzkzNTg0
-NDUsMTY1OTQ0NDM1MSwtMTE4MzUwMDc0OV19
+eyJoaXN0b3J5IjpbMTc0ODk4NzE1OCwxNTgzNjU0ODcyLDM3OT
+EzODM4MywtMTMxMzUyMTk5MywtOTU4ODY4NjE2LDExNzA0ODk4
+ODgsMTU3OTM1ODQ0NSwxNjU5NDQ0MzUxLC0xMTgzNTAwNzQ5XX
+0=
 -->
