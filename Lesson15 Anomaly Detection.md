@@ -10,7 +10,8 @@
 
 # Algorithm
 
-
+![enter image description here](https://lh3.googleusercontent.com/1sAyXvGnnHZ9O0oC6ViGULaHbWNG425UHOgCT_zWzkHvr3pp9ggvC1eTlyK2Tf1jiHnCoUx5UyLg)
+![enter image description here](https://lh3.googleusercontent.com/HXhKl5Q5JRR2Zg4Vsx_SYhphcDlO-8MySR90fOAmcmfPU-OB-5Qzcv42SDyf8HK4vi_m9KWq6f84)
 
 # Developing and Evaluating an Anomaly Detection System
 
@@ -31,6 +32,6 @@
 # Anomaly Detection using the Multivariate Gaussian Distribution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2NzQzODQzLDE1NzkzNTg0NDUsMTY1OT
-Q0NDM1MSwtMTE4MzUwMDc0OV19
+eyJoaXN0b3J5IjpbLTEwNTI0MzYzMDIsMTU3OTM1ODQ0NSwxNj
+U5NDQ0MzUxLC0xMTgzNTAwNzQ5XX0=
 -->
