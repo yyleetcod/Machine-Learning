@@ -7,6 +7,7 @@
 # Gaussian Distribution
 
 
+
 # Algorithm
 
 
@@ -29,5 +30,6 @@
 # Anomaly Detection using the Multivariate Gaussian Distribution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTQ0NDM1MSwtMTE4MzUwMDc0OV19
+eyJoaXN0b3J5IjpbMTU3OTM1ODQ0NSwxNjU5NDQ0MzUxLC0xMT
+gzNTAwNzQ5XX0=
 -->
