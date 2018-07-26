@@ -15,7 +15,7 @@ Underfitting, or high bias, is when the form of our hypothesis function h maps p
 
 # Cost Function
 We add one term in the cost function to make every parameter smaller.
-$J(\theta)=\frac{1}{2m}\sum \limits_{i=1}^{m}[(h_\theta(x^{(i)})-y^{(i)})^2+\lambda\sum \limits_{j=1}^n\theta_j^2]$
+$J(\theta)=\frac{1}{2m}\sum \limits_{i=1}^{m}[(h_\theta(x^{(i)})-y^{(i)})^2]+\lambda\sum \limits_{j=1}^n\theta_j^2$
 (we regularize $\theta_1$ through $\theta_n$, without $\theta_0$)
 If $\lambda$ is
 
@@ -70,6 +70,6 @@ J(\theta)=-[\frac{1}{m}\sum\limits_{i=1}^mylog(h_\theta(x))+(1-y)log(1-h_\theta(
 	(simultaneously update for every $j=1,...,n$)
 } 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE1NDA0OSwxMTI4NjcyMTczLDYwNT
-U3MDMwLC0xNDI3ODU1MjMyXX0=
+eyJoaXN0b3J5IjpbNDI2OTg0OTUzLC0xNDgxNTQwNDksMTEyOD
+Y3MjE3Myw2MDU1NzAzMCwtMTQyNzg1NTIzMl19
 -->
