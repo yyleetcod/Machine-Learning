@@ -17,6 +17,7 @@
 
 ![enter image description here](https://lh3.googleusercontent.com/jtopCRXQB9cnHfK3-Bl_wf5-RaxEC_X7ArZzcj95kCbJFebhI3TWanjZH19K6Z5PeV6QYuRoni_s)
 ![enter image description here](https://lh3.googleusercontent.com/2e8GGDrIlWwNli3NEkS_HrG0I6RpuVN11OhfDvBe2dDJC0h2P9VHIHZUNrSwBq80VgruEwWvmGWh)
+![enter image description here](https://lh3.googleusercontent.com/8bCmGYr_O4UqjXrWf7p8I4HUx4UbVJeLy6z_Ls_wxrE1yIsQL21Z3mPdwNEw3AnKcmyMQFy05QTw)
 
 # Anomaly Detection vs. Supervised Learning
 
@@ -34,6 +35,7 @@
 # Anomaly Detection using the Multivariate Gaussian Distribution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODg2ODYxNiwxMTcwNDg5ODg4LDE1Nz
-kzNTg0NDUsMTY1OTQ0NDM1MSwtMTE4MzUwMDc0OV19
+eyJoaXN0b3J5IjpbMTU4OTA5MzE1NywtOTU4ODY4NjE2LDExNz
+A0ODk4ODgsMTU3OTM1ODQ0NSwxNjU5NDQ0MzUxLC0xMTgzNTAw
+NzQ5XX0=
 -->
