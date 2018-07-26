@@ -1,5 +1,8 @@
 # Problem Motivation
 
+![enter image description here](https://lh3.googleusercontent.com/4i-p2i_4Rmrzeuayw1wG0iqNtUk6YUPdiVwrVKq0QW4CpB6xpW_XGd1Wtcrl1teSfPK5X9CcWASD)
+![enter image description here](https://lh3.googleusercontent.com/11UKvR6IZa9cIurNhdJ45UqgZLc3MuCOSBHeELZTh3ZqieaYJ-Z85jynqwJUeIogKdKCFgs2OT2x)
+![enter image description here](https://lh3.googleusercontent.com/MKXWQqKsxPfaCWyPDPRDVbquA6W_olVUSM5PL0MVnEjPcMoWYSF00LrvuRDp5k6fY6-vJtjGZrfG)
 
 # Gaussian Distribution
 
@@ -26,5 +29,5 @@
 # Anomaly Detection using the Multivariate Gaussian Distribution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODM1MDA3NDldfQ==
+eyJoaXN0b3J5IjpbMTY1OTQ0NDM1MSwtMTE4MzUwMDc0OV19
 -->
