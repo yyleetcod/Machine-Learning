@@ -26,11 +26,13 @@ Here, we ignore the feature $x_0=1$ and the parameter $\theta_0$. It means that 
 ![enter image description here](https://lh3.googleusercontent.com/PEjxjtsndVXU2pM0I3epDjTcUL4CqAuBK8yGimHZD-LmiEZaNgb8t23rYkBBxBZxXuBezr8YTb_Y)
 $X\Theta^T$ is a low rank matrix.
 We may never know what the features we learned mean.
-
+![enter image description here](https://lh3.googleusercontent.com/nL4hgzsNpvnAKcfvKF-SnK4ksjb98stHEaJiGML2tRjnIG5k2rCi6CX18tUs4a5PnIlwWQBygNn1)
 
 # Implementational Detail: Mean Normalization
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkxNTM5MzYsLTE0NzM1NjMzNTAsLT
+eyJoaXN0b3J5IjpbLTE3NTI3OTc1MzUsLTE0NzM1NjMzNTAsLT
 ExNjEwNDA5MTAsLTMxMzg0ODg2MiwyMTA0ODE0NDEwLDE5MDU0
 NDg2MjMsMTY4Mzk4NjY1NywtOTExMjE4MTE4LC0xNzg5NzMxMT
 I5LDE0NjE3NTAyMDgsLTQzNTkxNTc2N119
