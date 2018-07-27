@@ -30,10 +30,12 @@ We may never know what the features we learned mean.
 
 # Implementational Detail: Mean Normalization
 
-
+![enter image description here](https://lh3.googleusercontent.com/KUmRcToLsYLb_AQUr53fWRHPwnIvuIaGu4cHDv_ENPKfQ2aQNY_tzwK8kkmPE3aIwy5KNTgZiy0K)
+![enter image description here](https://lh3.googleusercontent.com/1gryJ15o52EZqLwvH1wy3yJ-PEOoNggporsN1UPHhCOJ-LEIWuz3xBxhUi6RlTzhJYCxk9Vwkc67)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTI3OTc1MzUsLTE0NzM1NjMzNTAsLT
-ExNjEwNDA5MTAsLTMxMzg0ODg2MiwyMTA0ODE0NDEwLDE5MDU0
-NDg2MjMsMTY4Mzk4NjY1NywtOTExMjE4MTE4LC0xNzg5NzMxMT
-I5LDE0NjE3NTAyMDgsLTQzNTkxNTc2N119
+eyJoaXN0b3J5IjpbLTEzMzI5NzYwMSwtMTc1Mjc5NzUzNSwtMT
+Q3MzU2MzM1MCwtMTE2MTA0MDkxMCwtMzEzODQ4ODYyLDIxMDQ4
+MTQ0MTAsMTkwNTQ0ODYyMywxNjgzOTg2NjU3LC05MTEyMTgxMT
+gsLTE3ODk3MzExMjksMTQ2MTc1MDIwOCwtNDM1OTE1NzY3XX0=
+
 -->
