@@ -41,9 +41,12 @@
 ![enter image description here](https://lh3.googleusercontent.com/zBu9BIYs6jbS86xZ8HsDo26wWHQoTmhdctHpRJUFk35Ky8xLfm6f9K4yBn0PaVm-2ok6zlxIW3U0)
 ![enter image description here](https://lh3.googleusercontent.com/oxDZFRE70X6vKqacIq_BgtWrvBUNqQklW-NpEczvTdz4rNXc801jxhmSyZgXm_a9kEo-ypCENiNc)
 ![enter image description here](https://lh3.googleusercontent.com/dd0ryPeJBHocmp6lxj_akxyGfLAp-zC5DgrKETIpOmCOiaY8Qna9GKVUiNAB4FNf_1B_bMkrQ5RQ)
+The case that $\Sigma$ is non-invertible may result from these two reasons:
 
+- m < n
+- abundant features
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTQzMDkxOSwtMjA4NzI1OTM3OSwtMT
+eyJoaXN0b3J5IjpbLTQ5ODI2NDYyOSwtMjA4NzI1OTM3OSwtMT
 QwNzc5NjM1OCwxNzQ4OTg3MTU4LDE1ODM2NTQ4NzIsMzc5MTM4
 MzgzLC0xMzEzNTIxOTkzLC05NTg4Njg2MTYsMTE3MDQ4OTg4OC
 wxNTc5MzU4NDQ1LDE2NTk0NDQzNTEsLTExODM1MDA3NDldfQ==
