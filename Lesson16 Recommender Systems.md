@@ -12,6 +12,7 @@
 # Collaborative Filtering
 
 
+
 # Collaborative Filtering Algorithm
 
 
@@ -20,6 +21,6 @@
 
 # Implementational Detail: Mean Normalization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTIxODExOCwtMTc4OTczMTEyOSwxND
-YxNzUwMjA4LC00MzU5MTU3NjddfQ==
+eyJoaXN0b3J5IjpbLTQ3Njg3OTY0MCwtOTExMjE4MTE4LC0xNz
+g5NzMxMTI5LDE0NjE3NTAyMDgsLTQzNTkxNTc2N119
 -->
