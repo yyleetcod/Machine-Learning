@@ -34,11 +34,12 @@
 
 ![enter image description here](https://lh3.googleusercontent.com/iR5A_1gAnkj2FgG8F4XEsrf6E7FZnHubPw1OXC8Yz3Nbx1ClUnYzQhyxGgv_m_VxJXkpCsA4xvFt)
 
+
 # Anomaly Detection using the Multivariate Gaussian Distribution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc3OTYzNTgsMTc0ODk4NzE1OCwxNT
-gzNjU0ODcyLDM3OTEzODM4MywtMTMxMzUyMTk5MywtOTU4ODY4
-NjE2LDExNzA0ODk4ODgsMTU3OTM1ODQ0NSwxNjU5NDQ0MzUxLC
-0xMTgzNTAwNzQ5XX0=
+eyJoaXN0b3J5IjpbMTE4NTc0MTYwOCwtMTQwNzc5NjM1OCwxNz
+Q4OTg3MTU4LDE1ODM2NTQ4NzIsMzc5MTM4MzgzLC0xMzEzNTIx
+OTkzLC05NTg4Njg2MTYsMTE3MDQ4OTg4OCwxNTc5MzU4NDQ1LD
+E2NTk0NDQzNTEsLTExODM1MDA3NDldfQ==
 -->
