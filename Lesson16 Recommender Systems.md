@@ -18,12 +18,13 @@
 # Collaborative Filtering Algorithm
 
 
+
 # Vectorization: Low Rank Matrix Factorization
 
 
 # Implementational Detail: Mean Normalization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTQ0ODYyMywxNjgzOTg2NjU3LC05MT
-EyMTgxMTgsLTE3ODk3MzExMjksMTQ2MTc1MDIwOCwtNDM1OTE1
-NzY3XX0=
+eyJoaXN0b3J5IjpbLTEzMDUyMjA1NDMsMTkwNTQ0ODYyMywxNj
+gzOTg2NjU3LC05MTEyMTgxMTgsLTE3ODk3MzExMjksMTQ2MTc1
+MDIwOCwtNDM1OTE1NzY3XX0=
 -->
