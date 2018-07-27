@@ -44,11 +44,11 @@
 The case that $\Sigma$ is non-invertible may result from these two reasons:
 
 - m < n
-- abundant features
+- redundant features
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODI2NDYyOSwtMjA4NzI1OTM3OSwtMT
-QwNzc5NjM1OCwxNzQ4OTg3MTU4LDE1ODM2NTQ4NzIsMzc5MTM4
-MzgzLC0xMzEzNTIxOTkzLC05NTg4Njg2MTYsMTE3MDQ4OTg4OC
-wxNTc5MzU4NDQ1LDE2NTk0NDQzNTEsLTExODM1MDA3NDldfQ==
+eyJoaXN0b3J5IjpbLTExODAyNzk0NjMsLTIwODcyNTkzNzksLT
+E0MDc3OTYzNTgsMTc0ODk4NzE1OCwxNTgzNjU0ODcyLDM3OTEz
+ODM4MywtMTMxMzUyMTk5MywtOTU4ODY4NjE2LDExNzA0ODk4OD
+gsMTU3OTM1ODQ0NSwxNjU5NDQ0MzUxLC0xMTgzNTAwNzQ5XX0=
 
 -->
