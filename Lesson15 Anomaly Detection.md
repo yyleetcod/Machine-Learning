@@ -33,13 +33,13 @@
 # Multivariate Gaussian Distribution
 
 ![enter image description here](https://lh3.googleusercontent.com/iR5A_1gAnkj2FgG8F4XEsrf6E7FZnHubPw1OXC8Yz3Nbx1ClUnYzQhyxGgv_m_VxJXkpCsA4xvFt)
-
+![enter image description here](https://lh3.googleusercontent.com/tawOieVHMLFN-2uQOcpGX7rPFsdyBzjVf4HsiK08e5RamlAZ5-tK9VQ824Eg4FolM_0N5qdKMSFg)
 
 # Anomaly Detection using the Multivariate Gaussian Distribution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTc0MTYwOCwtMTQwNzc5NjM1OCwxNz
-Q4OTg3MTU4LDE1ODM2NTQ4NzIsMzc5MTM4MzgzLC0xMzEzNTIx
-OTkzLC05NTg4Njg2MTYsMTE3MDQ4OTg4OCwxNTc5MzU4NDQ1LD
-E2NTk0NDQzNTEsLTExODM1MDA3NDldfQ==
+eyJoaXN0b3J5IjpbLTIwODcyNTkzNzksLTE0MDc3OTYzNTgsMT
+c0ODk4NzE1OCwxNTgzNjU0ODcyLDM3OTEzODM4MywtMTMxMzUy
+MTk5MywtOTU4ODY4NjE2LDExNzA0ODk4ODgsMTU3OTM1ODQ0NS
+wxNjU5NDQ0MzUxLC0xMTgzNTAwNzQ5XX0=
 -->
