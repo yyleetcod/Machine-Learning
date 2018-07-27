@@ -14,6 +14,7 @@
 ![enter image description here](https://lh3.googleusercontent.com/_7KKwcXDbdVoukUMc8zSDmYb7Fwp2lyIMJaXKSz38EfKbt7Nxq_wlUIoJiaGbcBq82vRh54tyM-9)
 ![enter image description here](https://lh3.googleusercontent.com/GOetGYQStGdM2WECJQ6Cgf0PZf5rusNE8HgHfwW0cQ9BfKZ-YzkyRyX5RNOo5h6pLUdaeAEcON3-)
 
+
 # Collaborative Filtering Algorithm
 
 
@@ -22,6 +23,7 @@
 
 # Implementational Detail: Mean Normalization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4Mzk4NjY1NywtOTExMjE4MTE4LC0xNz
-g5NzMxMTI5LDE0NjE3NTAyMDgsLTQzNTkxNTc2N119
+eyJoaXN0b3J5IjpbLTE4NjEwODk4NDEsMTY4Mzk4NjY1NywtOT
+ExMjE4MTE4LC0xNzg5NzMxMTI5LDE0NjE3NTAyMDgsLTQzNTkx
+NTc2N119
 -->
