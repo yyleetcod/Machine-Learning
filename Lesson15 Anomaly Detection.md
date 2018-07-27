@@ -37,9 +37,15 @@
 
 # Anomaly Detection using the Multivariate Gaussian Distribution
 
+![enter image description here](https://lh3.googleusercontent.com/DcIHiC_2iDcS7T8Vc4xNCU2YBO-sw91zLBnLWnnmzpsJlwB6GFMTJC0CfHrLMbf4AIuNdVPoFHTc)
+![enter image description here](https://lh3.googleusercontent.com/zBu9BIYs6jbS86xZ8HsDo26wWHQoTmhdctHpRJUFk35Ky8xLfm6f9K4yBn0PaVm-2ok6zlxIW3U0)
+![enter image description here](https://lh3.googleusercontent.com/oxDZFRE70X6vKqacIq_BgtWrvBUNqQklW-NpEczvTdz4rNXc801jxhmSyZgXm_a9kEo-ypCENiNc)
+![enter image description here](https://lh3.googleusercontent.com/dd0ryPeJBHocmp6lxj_akxyGfLAp-zC5DgrKETIpOmCOiaY8Qna9GKVUiNAB4FNf_1B_bMkrQ5RQ)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODcyNTkzNzksLTE0MDc3OTYzNTgsMT
-c0ODk4NzE1OCwxNTgzNjU0ODcyLDM3OTEzODM4MywtMTMxMzUy
-MTk5MywtOTU4ODY4NjE2LDExNzA0ODk4ODgsMTU3OTM1ODQ0NS
-wxNjU5NDQ0MzUxLC0xMTgzNTAwNzQ5XX0=
+eyJoaXN0b3J5IjpbMTk1OTQzMDkxOSwtMjA4NzI1OTM3OSwtMT
+QwNzc5NjM1OCwxNzQ4OTg3MTU4LDE1ODM2NTQ4NzIsMzc5MTM4
+MzgzLC0xMzEzNTIxOTkzLC05NTg4Njg2MTYsMTE3MDQ4OTg4OC
+wxNTc5MzU4NDQ1LDE2NTk0NDQzNTEsLTExODM1MDA3NDldfQ==
+
 -->
