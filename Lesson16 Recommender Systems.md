@@ -18,14 +18,14 @@
 # Collaborative Filtering Algorithm
 
 ![enter image description here](https://lh3.googleusercontent.com/0DQQ3PXqWNcrgeyOJbnSFTpBXHgf1LGgD6MN8s-Ql7HEscm8NimUXxXksVsoQ7tvzAUiYg6ClHJt)
-Here, we ignore the feature $x_0=1$ and the parameter $\theta_0$, because if we need a feature fixed at 1, the algorithm will learn by itself.
+Here, we ignore the feature $x_0=1$ and the parameter $\theta_0$. It means that $\theta\in\Re^n,x\in\Re^n$. Because if we need a feature fixed at 1, the algorithm will learn by itself.
 
 # Vectorization: Low Rank Matrix Factorization
 
 
 # Implementational Detail: Mean Normalization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzUwOTI2MCwxOTA1NDQ4NjIzLDE2OD
+eyJoaXN0b3J5IjpbMjEwNDgxNDQxMCwxOTA1NDQ4NjIzLDE2OD
 M5ODY2NTcsLTkxMTIxODExOCwtMTc4OTczMTEyOSwxNDYxNzUw
 MjA4LC00MzU5MTU3NjddfQ==
 -->
