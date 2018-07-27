@@ -19,14 +19,14 @@
 
 ![enter image description here](https://lh3.googleusercontent.com/0DQQ3PXqWNcrgeyOJbnSFTpBXHgf1LGgD6MN8s-Ql7HEscm8NimUXxXksVsoQ7tvzAUiYg6ClHJt)
 Here, we ignore the feature $x_0=1$ and the parameter $\theta_0$. It means that $\theta\in\Re^n,x\in\Re^n$. Because if we need a feature fixed at 1, the algorithm will learn by itself.
-
+![enter image description here](https://lh3.googleusercontent.com/rcklwMewr4kCu100kSuANEBSTfT0O1lLF94-zQ1Wg0Sa0KMIWWAM-9G5ka5Knqp6wt9CMvAfiRRp)
 
 # Vectorization: Low Rank Matrix Factorization
 
 
 # Implementational Detail: Mean Normalization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjczOTc0MCwyMTA0ODE0NDEwLDE5MD
+eyJoaXN0b3J5IjpbLTMxMzg0ODg2MiwyMTA0ODE0NDEwLDE5MD
 U0NDg2MjMsMTY4Mzk4NjY1NywtOTExMjE4MTE4LC0xNzg5NzMx
 MTI5LDE0NjE3NTAyMDgsLTQzNTkxNTc2N119
 -->
