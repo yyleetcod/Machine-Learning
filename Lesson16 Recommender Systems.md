@@ -23,10 +23,12 @@ Here, we ignore the feature $x_0=1$ and the parameter $\theta_0$. It means that 
 
 # Vectorization: Low Rank Matrix Factorization
 
+$X\Theta^T$ is a low rank matrix.
 
 # Implementational Detail: Mean Normalization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzg0ODg2MiwyMTA0ODE0NDEwLDE5MD
-U0NDg2MjMsMTY4Mzk4NjY1NywtOTExMjE4MTE4LC0xNzg5NzMx
-MTI5LDE0NjE3NTAyMDgsLTQzNTkxNTc2N119
+eyJoaXN0b3J5IjpbLTExNjEwNDA5MTAsLTMxMzg0ODg2MiwyMT
+A0ODE0NDEwLDE5MDU0NDg2MjMsMTY4Mzk4NjY1NywtOTExMjE4
+MTE4LC0xNzg5NzMxMTI5LDE0NjE3NTAyMDgsLTQzNTkxNTc2N1
+19
 -->
