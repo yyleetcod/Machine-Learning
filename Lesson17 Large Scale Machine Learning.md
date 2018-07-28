@@ -34,9 +34,12 @@ We use mini-batch gradient descent where batch size equals to 10.
 
 # Map Reduce and Data Parallelism
 
+![enter image description here](https://lh3.googleusercontent.com/JTxHeZnYACRkzMgP-eAo16Un_AJUN04LFd6k1G5ln7GxLFcviUc8IZb4fEjQXFFJt5Jt3it2KWEA)
+![enter image description here](https://lh3.googleusercontent.com/oaKPBq0EDeiUQ9510VbqzbHrJNvPwAzs9_IM1cBB7Axw0EIEwXSh5mKNCZZct1BSQWukapGZ7UG9)
+![enter image description here](https://lh3.googleusercontent.com/ZFn8VkfoIoObobzujwfodaw8FcUN7b3v5A1sN1DFij6BVRyHqGcV2uaEbYYN1-57qZQp60XCjGZO)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjQ0NzUxMywtNjE1MzE4OTI2LC0xNj
-M5NDc4MTE5LDExNjk3MTAwODUsODIxODE5MTUyLC00NjM4MDQ2
-MzBdfQ==
+eyJoaXN0b3J5IjpbNzEzNzUyMjgxLDE1OTI0NDc1MTMsLTYxNT
+MxODkyNiwtMTYzOTQ3ODExOSwxMTY5NzEwMDg1LDgyMTgxOTE1
+MiwtNDYzODA0NjMwXX0=
 -->
