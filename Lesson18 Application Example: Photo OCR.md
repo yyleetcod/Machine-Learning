@@ -22,6 +22,8 @@
 ![enter image description here](https://lh3.googleusercontent.com/-exd6rIpkKAEzhergdB4DlOuDcGiOxT2Qj2t9E4ePvAMooEOvcSP61x1XxmS97ar9UH3cb-bb3nV)
 
 # Ceiling Analysis: What Part of the PipeLine to Work on Next
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQ3NDA3NDEsMTAxNDY2NjUyNV19
+eyJoaXN0b3J5IjpbMjEwODQxMDA3MSwxMDE0NjY2NTI1XX0=
 -->
