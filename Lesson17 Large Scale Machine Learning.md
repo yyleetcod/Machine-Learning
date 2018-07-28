@@ -28,10 +28,15 @@ figure4. try smaller learning rate $\alpha$
 
 # Online Learning
 
-
+![enter image description here](https://lh3.googleusercontent.com/BtEnMinl9ulK_xYE7nUtg2tpGpsjcyAtGtUeaXxdcBl4gnVcycM72cE12-DKENYlhGCbx-Uasmi0)
+![enter image description here](https://lh3.googleusercontent.com/ge2Cc118TDzaF4XEXA_TwSEQ9FLGjFJj7I2qr3eSfAmerSo3dE72DGMdRRQSPsHFiaulDIhPxXfq)
+We use mini-batch gradient descent where batch size equals to 10.
 
 # Map Reduce and Data Parallelism
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTMxODkyNiwtMTYzOTQ3ODExOSwxMT
-Y5NzEwMDg1LDgyMTgxOTE1MiwtNDYzODA0NjMwXX0=
+eyJoaXN0b3J5IjpbMTU5MjQ0NzUxMywtNjE1MzE4OTI2LC0xNj
+M5NDc4MTE5LDExNjk3MTAwODUsODIxODE5MTUyLC00NjM4MDQ2
+MzBdfQ==
 -->
