@@ -14,7 +14,7 @@ When we use stochastic gradient descent, firstly we should randomly shuffle the 
 
 ![enter image description here](https://lh3.googleusercontent.com/Jdmxd5W6Vta2c-AkmSYbag2mLj1YxviGX4ptJagoSvLbkWPUA4nuFrPqY64uvQg_di_rIVW85fdR)
 ![enter image description here](https://lh3.googleusercontent.com/tAqsKrMm-qU2DHxKdoYX2VikDPYJcEr1CkazRONscwbCVdbfkN7DvJ_GpExcTg8kg3eCEKuJJvSk)
-Mini-batch gradient descent may run faster than c
+Mini-batch gradient descent may run faster than stochastic gradient descent because of vectorization.
 
 # Stochastic Gradient Descent Convergence
 
@@ -26,5 +26,5 @@ Mini-batch gradient descent may run faster than c
 
 # Map Reduce and Data Parallelism
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjY1NzE5NCwtNDYzODA0NjMwXX0=
+eyJoaXN0b3J5IjpbODIxODE5MTUyLC00NjM4MDQ2MzBdfQ==
 -->
