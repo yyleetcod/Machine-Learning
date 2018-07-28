@@ -22,7 +22,7 @@ Mini-batch gradient descent may run faster than stochastic gradient descent beca
 ![enter image description here](https://lh3.googleusercontent.com/6Rx4TCZQHACu0GgDHo9bbJegMFAebbyIscoP6g5m3UvuWDth1xKaftBzfUG8aCMxojVSTtt8w0jV)
 figure1. red: try smaller learning rate $\alpha$
 figure2. red: try to use more data to average
-figure3. the algorithm doesn't convergence.
+figure3. the algorithm doesn't converge.
 figure4. try smaller learning rate $\alpha$
 
 # Online Learning
@@ -31,6 +31,6 @@ figure4. try smaller learning rate $\alpha$
 
 # Map Reduce and Data Parallelism
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTkyNTI2NywxMTY5NzEwMDg1LDgyMT
-gxOTE1MiwtNDYzODA0NjMwXX0=
+eyJoaXN0b3J5IjpbLTE2Mzk0NzgxMTksMTE2OTcxMDA4NSw4Mj
+E4MTkxNTIsLTQ2MzgwNDYzMF19
 -->
