@@ -19,8 +19,9 @@
 ![enter image description here](https://lh3.googleusercontent.com/X2_r4pl03BpgtGFk4fQFsdxoZ_FdRnGgn2zeukj9rm6mmyIBOl_BxBMz9RYBw3BZxhMvcuAcideY)
 ![enter image description here](https://lh3.googleusercontent.com/rigZzAdYaZc-5YKynlZ8dFrpVHPcWFwyK9AHCj32SiwBYupUDB4BabDQ9gtR9M_agynIpZDnsKAm)
 ![enter image description here](https://lh3.googleusercontent.com/jREX-8aogbxsa6DH-3VAlaO8dNWw2QqOjpaQo2KXYqAYVN9oLrisdvgNPtbJDj_QzWp9csvw5g_U)
+![enter image description here](https://lh3.googleusercontent.com/-exd6rIpkKAEzhergdB4DlOuDcGiOxT2Qj2t9E4ePvAMooEOvcSP61x1XxmS97ar9UH3cb-bb3nV)
 
 # Ceiling Analysis: What Part of the PipeLine to Work on Next
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDY2NjUyNV19
+eyJoaXN0b3J5IjpbLTEzNjQ3NDA3NDEsMTAxNDY2NjUyNV19
 -->
