@@ -24,6 +24,7 @@ figure1. red: try smaller learning rate $\alpha$
 figure2. red: try to use more data to average
 figure3. the algorithm doesn't converge.
 figure4. try smaller learning rate $\alpha$
+![enter image description here](https://lh3.googleusercontent.com/BT9TjgpL8vi_yYxZtU50nECkPpyPO1wxedAgIXAtqL2PMczrMHi-Km5NZCVDEVgCZeds5cfXWhlk)
 
 # Online Learning
 
@@ -31,6 +32,6 @@ figure4. try smaller learning rate $\alpha$
 
 # Map Reduce and Data Parallelism
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk0NzgxMTksMTE2OTcxMDA4NSw4Mj
-E4MTkxNTIsLTQ2MzgwNDYzMF19
+eyJoaXN0b3J5IjpbLTYxNTMxODkyNiwtMTYzOTQ3ODExOSwxMT
+Y5NzEwMDg1LDgyMTgxOTE1MiwtNDYzODA0NjMwXX0=
 -->
