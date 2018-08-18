@@ -5,7 +5,9 @@ $h_\theta=\theta_0+\theta_1x$
 **Parameters**
 $\theta_0$、$\theta_1$
 
+
 **Cost Function**
+
 $J(\theta_0,\theta_1)=\frac{1}{2m}\sum \limits_{i=1}^{m}(h_\theta(x^{(i)})-y^{(i)})^2$
 used to measure the accuracy of our hypothesis function
 
@@ -50,5 +52,6 @@ If the goal function is a convex function, it doesn't have any local optima, exc
 
 **"Batch" Gradient Descent**: Each step of gradient descent uses all the training examples.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDc2MDUzMzYsLTgzNjc1NDUwMV19
+eyJoaXN0b3J5IjpbLTE0MzIwMDUyMDgsLTE5MDc2MDUzMzYsLT
+gzNjc1NDUwMV19
 -->
