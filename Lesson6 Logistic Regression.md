@@ -22,7 +22,7 @@ e.g. $x = [1;x_1;x_2;x_1^2;x_2^2]$,$\theta=[1;0;0;1;1]$, then the boundary is $x
 To attempt classification, one method is to use linear regression and map all predictions greater than 0.5 as a 1 and all less than 0.5 as a 0. However, this method doesn't work well because classification is not actually a linear function.
 
 $J(\theta)=\frac{1}{m}\sum \limits_{i=1}^mcost(h_\theta(x^{(i)}),y^{(i)})$
-- For linear regression, $cost(h_\theta(x),y)=\frac{1}{2}(h_\theta(x)-y)^2$.But when we use it into logistic regression, where $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$, we will get a non_convex $J(\theta)$, which has many local optima.
+- For linear regression, $cost(h_\theta(x),y)=\frac{1}{2}(h_\theta(x)-y)^2$.But when we use it into logistic regression, where $h_\theta=\frac{1}{1+e^{-\theta^Tx}}$, we will get a non-convex $J(\theta)$, which has many local optima.
 - For logistic regression, define $$cost(h_\theta(x),y)=  
 \begin{cases}  
 -log(h_\theta(x))& \text{if y = 1}\\  
@@ -95,9 +95,9 @@ Train a logistic regression classifier $h_\theta^{(i)}$ for each class $i$ to pr
  $h_\theta^{(i)}=P(y=i|x;\theta)$ 
 On a new input $x$, to make a prediction, pick the class $i$ that maximizes $\max \limits_ih_\theta^{(i)}(x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjM2NDczLDcyNDA3MDM4OSwtMTgwMD
-c5OTQ0MSw4MTQ4NzEyNTQsLTY4NTc5OTg5MywtMTAyNTgxOTc5
-NiwtMTgxMjgxNTM5MywtNTc5MTM4MDk2LDE4NTcxNjIwNywtMj
-A2NDk3MzA1MCwtMTM2NzAyNjU3NiwtMTIyMTMyNzUyMSw5NDAy
-MjY2XX0=
+eyJoaXN0b3J5IjpbNjYxMjE0OTE5LDExMTIzNjQ3Myw3MjQwNz
+AzODksLTE4MDA3OTk0NDEsODE0ODcxMjU0LC02ODU3OTk4OTMs
+LTEwMjU4MTk3OTYsLTE4MTI4MTUzOTMsLTU3OTEzODA5NiwxOD
+U3MTYyMDcsLTIwNjQ5NzMwNTAsLTEzNjcwMjY1NzYsLTEyMjEz
+Mjc1MjEsOTQwMjI2Nl19
 -->
