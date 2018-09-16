@@ -46,9 +46,9 @@ The case that $\Sigma$ is non-invertible may result from these two reasons:
 - m < n
 - redundant features
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODAyNzk0NjMsLTIwODcyNTkzNzksLT
-E0MDc3OTYzNTgsMTc0ODk4NzE1OCwxNTgzNjU0ODcyLDM3OTEz
-ODM4MywtMTMxMzUyMTk5MywtOTU4ODY4NjE2LDExNzA0ODk4OD
-gsMTU3OTM1ODQ0NSwxNjU5NDQ0MzUxLC0xMTgzNTAwNzQ5XX0=
-
+eyJoaXN0b3J5IjpbNTk1MTc0OTU2LC0xMTgwMjc5NDYzLC0yMD
+g3MjU5Mzc5LC0xNDA3Nzk2MzU4LDE3NDg5ODcxNTgsMTU4MzY1
+NDg3MiwzNzkxMzgzODMsLTEzMTM1MjE5OTMsLTk1ODg2ODYxNi
+wxMTcwNDg5ODg4LDE1NzkzNTg0NDUsMTY1OTQ0NDM1MSwtMTE4
+MzUwMDc0OV19
 -->
