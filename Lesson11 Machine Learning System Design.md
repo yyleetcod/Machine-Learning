@@ -39,7 +39,7 @@ $Accuracy=\frac{\text{True positive+True negative}}{\text{Total number}}$
 ![enter image description here](https://lh3.googleusercontent.com/81gHxZATB2QSnyg06OGa0_KzP578VArYgVPLMXYHeJhaGFxioIOVdQEm2c_bEfbggUXI3NC7XRI)
 ![enter image description here](https://lh3.googleusercontent.com/tXsCKrgJQobjPJzBl0wib9B5bQ1jbK2vO5bu3bTc0UDZyEBmlqspLA1xhnVzYkIGBHWmmoAwmD4)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5NDM5MTksMTQwNzIwOTIyMSwxNDYxNj
-c5MDIwLC0yNjg1OTQwNTMsLTEzNTc0NTE2NzEsMjYwMTU4MjAz
-LDQ2NDU2NDM5NywtMTUyODczMzM3MV19
+eyJoaXN0b3J5IjpbNDg5NzMzOTMzLDUwOTQzOTE5LDE0MDcyMD
+kyMjEsMTQ2MTY3OTAyMCwtMjY4NTk0MDUzLC0xMzU3NDUxNjcx
+LDI2MDE1ODIwMyw0NjQ1NjQzOTcsLTE1Mjg3MzMzNzFdfQ==
 -->
