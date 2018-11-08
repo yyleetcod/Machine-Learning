@@ -47,8 +47,8 @@ Use regularization to prevent overfitting.**
 ![enter image description here](https://lh3.googleusercontent.com/Et4ftXsbmTXXAxBU-YCn02y5OeYg4W_C54aicIQNOfQj4klisDoLTfSJWF9UpZRFBP6rLu6japWe)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3MzQyNTIsOTI4OTg0NTAzLC0xODIzNT
-Y3Njk4LC0yMDEzNDU4NjA2LC0xODMwNjQ0MjgsMTMwOTU1ODI3
-NywxNTc5NDkwNjMwLC0xMDgwODkwMjcyLDc3ODUyMTI3MiwtNj
-U0NzQ4OTc1LC01NjkwNTgwNTFdfQ==
+eyJoaXN0b3J5IjpbLTE1NzczOTc1NjUsMzY3MzQyNTIsOTI4OT
+g0NTAzLC0xODIzNTY3Njk4LC0yMDEzNDU4NjA2LC0xODMwNjQ0
+MjgsMTMwOTU1ODI3NywxNTc5NDkwNjMwLC0xMDgwODkwMjcyLD
+c3ODUyMTI3MiwtNjU0NzQ4OTc1LC01NjkwNTgwNTFdfQ==
 -->
