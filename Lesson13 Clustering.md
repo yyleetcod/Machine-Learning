@@ -17,6 +17,7 @@
 Often we need choose $K$ by hand.
 ![enter image description here](https://lh3.googleusercontent.com/c4BcU4ap5kLJlMdMWpSiEaUxgS5sxF9toSAzux9CCX1zPkn01YmXSuPgGyYhqT-H0E5U8UuWgJVe)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjUzNzIyMzcsLTcwNzg0OTA3LC00OD
-g5MjQzMDcsLTQ2Mzg3Njk5MywyMTIzMjA5NTQyXX0=
+eyJoaXN0b3J5IjpbMjAwNjI2MTMzMCwtMTc2NTM3MjIzNywtNz
+A3ODQ5MDcsLTQ4ODkyNDMwNywtNDYzODc2OTkzLDIxMjMyMDk1
+NDJdfQ==
 -->
