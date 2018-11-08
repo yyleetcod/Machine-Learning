@@ -105,8 +105,9 @@ e.g. $n=1-1000,m=50000+$
 
 Neural network likely to work well for most of these settings, but may be slower to train.(also may meet problem of local optimal)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDI1ODc0MTYsLTU5ODE4ODg1MiwyMD
-g1MjMyMDg3LDc3NDM3NzkzNCw1MTU4ODA5MTYsLTk0ODYzMTA2
-MSwyMDI5MzUxOTc3LDIwNzI2MzY4NjIsLTE1MDk2NTQ5OTksMT
-kyODMyMjgwMywxMTI2MzI4ODg2LC0xNTczOTk0NTkwXX0=
+eyJoaXN0b3J5IjpbMTgxNDA5MDYwNSwtMjE0MjU4NzQxNiwtNT
+k4MTg4ODUyLDIwODUyMzIwODcsNzc0Mzc3OTM0LDUxNTg4MDkx
+NiwtOTQ4NjMxMDYxLDIwMjkzNTE5NzcsMjA3MjYzNjg2MiwtMT
+UwOTY1NDk5OSwxOTI4MzIyODAzLDExMjYzMjg4ODYsLTE1NzM5
+OTQ1OTBdfQ==
 -->
