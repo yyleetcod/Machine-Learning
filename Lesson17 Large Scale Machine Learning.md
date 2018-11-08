@@ -39,7 +39,7 @@ We use mini-batch gradient descent where batch size equals to 10.
 ![enter image description here](https://lh3.googleusercontent.com/ZFn8VkfoIoObobzujwfodaw8FcUN7b3v5A1sN1DFij6BVRyHqGcV2uaEbYYN1-57qZQp60XCjGZO)
 ![enter image description here](https://lh3.googleusercontent.com/YxxNzgAYSTx5xYzvdWzAQ-m3lJu8TP-42sLrpvY1CEE9YOSTkshxcoT0CPLTTI1wYHtqT7kXY6Ci)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Mzc2MDUxNywxNTkyNDQ3NTEzLC02MT
-UzMTg5MjYsLTE2Mzk0NzgxMTksMTE2OTcxMDA4NSw4MjE4MTkx
-NTIsLTQ2MzgwNDYzMF19
+eyJoaXN0b3J5IjpbNTk4NjA1MjY1LC04NjM3NjA1MTcsMTU5Mj
+Q0NzUxMywtNjE1MzE4OTI2LC0xNjM5NDc4MTE5LDExNjk3MTAw
+ODUsODIxODE5MTUyLC00NjM4MDQ2MzBdfQ==
 -->
