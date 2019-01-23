@@ -24,6 +24,6 @@ $[W,s,v]=svd((repmat(sum(x.*x,1),size(x,1),1).*x)*x');$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDY5MDY2MjEsLTE1OTEwMzQzNzEsMT
-MwNDk1ODA5NCwxMzU1MDIxODg3XX0=
+eyJoaXN0b3J5IjpbMTcxNDIzNTAxNiwtMTEwNjkwNjYyMSwtMT
+U5MTAzNDM3MSwxMzA0OTU4MDk0LDEzNTUwMjE4ODddfQ==
 -->
