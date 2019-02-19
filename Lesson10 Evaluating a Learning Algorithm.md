@@ -36,7 +36,7 @@ We can now calculate three separate error values for the three different sets us
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1MTkyMDY2LDc3NzIwNzA1OCwtMjAzOD
-YwNTE5MSwtMTQ2MTY2Njg2OCwtMTgwNzE0MzA4MywxOTgwMjgw
-MDI0LC01MDM5ODUzNzFdfQ==
+eyJoaXN0b3J5IjpbMTg0ODAzODEzNCw5OTUxOTIwNjYsNzc3Mj
+A3MDU4LC0yMDM4NjA1MTkxLC0xNDYxNjY2ODY4LC0xODA3MTQz
+MDgzLDE5ODAyODAwMjQsLTUwMzk4NTM3MV19
 -->
