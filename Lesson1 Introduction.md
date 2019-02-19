@@ -20,10 +20,8 @@
 
 - Algorithm
 $[W,s,v]=svd((repmat(sum(x.*x,1),size(x,1),1).*x)*x');$
-
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDIzNTAxNiwtMTEwNjkwNjYyMSwtMT
-U5MTAzNDM3MSwxMzA0OTU4MDk0LDEzNTUwMjE4ODddfQ==
+eyJoaXN0b3J5IjpbLTE2NDYzNDI5MTQsMTcxNDIzNTAxNiwtMT
+EwNjkwNjYyMSwtMTU5MTAzNDM3MSwxMzA0OTU4MDk0LDEzNTUw
+MjE4ODddfQ==
 -->
