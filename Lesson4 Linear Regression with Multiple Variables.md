@@ -95,5 +95,5 @@ What if $X^TX$ is non-invertible?
 - Redundant features (linearly dependent).
 - Too many features (e.g. $m{\le}n$).(Delete some features, or use regularization.)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwMzE4NThdfQ==
+eyJoaXN0b3J5IjpbLTEwMDkxNzEwODAsODUwMzE4NThdfQ==
 -->
