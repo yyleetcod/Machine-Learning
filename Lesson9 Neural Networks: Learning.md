@@ -94,8 +94,9 @@ for i = 1:m,
    ```
    Ideally, you want $h_\Theta(x^{(i)}) \approx y^{(i)}$. This will minimize our cost function. However, keep in mind that $J(\Theta)$ is not convex and thus we can end up in a local minimum instead.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxMDgxOTQ1LDE0OTA2ODg2MywtNTU2Mz
-A3MzE5LC0xNjY4MDQ0NjE0LDIwNDg3NjIyNjcsLTEwOTk4MzA4
-NzcsLTEwODA5Mzc4MjIsLTE4MDg3ODEwMCwtOTU5NTM3MDgyLC
-0xMjQ4MTA5NzM3LDY5OTMyOTQyOCwxODYwOTM3NDg5XX0=
+eyJoaXN0b3J5IjpbLTk0Mjc3MzUyNiw4ODEwODE5NDUsMTQ5MD
+Y4ODYzLC01NTYzMDczMTksLTE2NjgwNDQ2MTQsMjA0ODc2MjI2
+NywtMTA5OTgzMDg3NywtMTA4MDkzNzgyMiwtMTgwODc4MTAwLC
+05NTk1MzcwODIsLTEyNDgxMDk3MzcsNjk5MzI5NDI4LDE4NjA5
+Mzc0ODldfQ==
 -->
