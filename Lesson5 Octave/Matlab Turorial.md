@@ -10,5 +10,5 @@
 
 `imagesc(magic(9)), colorbar, colormap gray`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDM2NTQ5MV19
+eyJoaXN0b3J5IjpbLTU3Mzk3NzA4LDE4ODQzNjU0OTFdfQ==
 -->
