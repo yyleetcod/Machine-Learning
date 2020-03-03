@@ -95,9 +95,9 @@ Train a logistic regression classifier $h_\theta^{(i)}$ for each class $i$ to pr
  $h_\theta^{(i)}=P(y=i|x;\theta)$ 
 On a new input $x$, to make a prediction, pick the class $i$ that maximizes $\max \limits_ih_\theta^{(i)}(x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxMjE0OTE5LDExMTIzNjQ3Myw3MjQwNz
-AzODksLTE4MDA3OTk0NDEsODE0ODcxMjU0LC02ODU3OTk4OTMs
-LTEwMjU4MTk3OTYsLTE4MTI4MTUzOTMsLTU3OTEzODA5NiwxOD
-U3MTYyMDcsLTIwNjQ5NzMwNTAsLTEzNjcwMjY1NzYsLTEyMjEz
-Mjc1MjEsOTQwMjI2Nl19
+eyJoaXN0b3J5IjpbMTQyMzgxOTYwMCw2NjEyMTQ5MTksMTExMj
+M2NDczLDcyNDA3MDM4OSwtMTgwMDc5OTQ0MSw4MTQ4NzEyNTQs
+LTY4NTc5OTg5MywtMTAyNTgxOTc5NiwtMTgxMjgxNTM5MywtNT
+c5MTM4MDk2LDE4NTcxNjIwNywtMjA2NDk3MzA1MCwtMTM2NzAy
+NjU3NiwtMTIyMTMyNzUyMSw5NDAyMjY2XX0=
 -->
