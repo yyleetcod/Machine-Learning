@@ -70,6 +70,7 @@ J(\theta)=-[\frac{1}{m}\sum\limits_{i=1}^mylog(h_\theta(x))+(1-y)log(1-h_\theta(
 	(simultaneously update for every $j=1,...,n$)
 } 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI2OTg0OTUzLC0xNDgxNTQwNDksMTEyOD
-Y3MjE3Myw2MDU1NzAzMCwtMTQyNzg1NTIzMl19
+eyJoaXN0b3J5IjpbMTE0OTA2NjAwOSw0MjY5ODQ5NTMsLTE0OD
+E1NDA0OSwxMTI4NjcyMTczLDYwNTU3MDMwLC0xNDI3ODU1MjMy
+XX0=
 -->
