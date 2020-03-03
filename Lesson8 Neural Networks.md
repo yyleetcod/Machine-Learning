@@ -20,6 +20,6 @@ In this **last step**, between layer j and layer j+1, we are doing **exactly the
 $z=\theta_0+\theta_1x_1+\theta_2x_2+\theta_3x_3=\theta^Tx$
 $a=h_\theta(z)=\frac{1}{1+e^{-z}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDcyMDgxMCwxNDA3ODE0NjEwLC01Nz
-Q4NTEzMzMsOTg3MTkzODY5XX0=
+eyJoaXN0b3J5IjpbLTk4MTg3Njg0MywtNjUwNzIwODEwLDE0MD
+c4MTQ2MTAsLTU3NDg1MTMzMyw5ODcxOTM4NjldfQ==
 -->
